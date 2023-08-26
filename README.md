@@ -9,8 +9,9 @@ Accepted by ACL 2023 Findings. 2023.05
 Code released at Github. 2023.08
 
 ## Preparation
-Download different pretrained LMs into resource/ .
-Use environments.yaml to get the right environments.
+Download different pretrained LMs into resource/ 
+
+Use environments.yaml to get the right environments
 
 ## Reproduce results
 For EC:
