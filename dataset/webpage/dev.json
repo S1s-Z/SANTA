@@ -1,0 +1,398 @@
+[
+ {
+  "sentence": "['John', 'Beale', \"'s\", 'Home', 'Page']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Picture', 'of', 'John']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['This', 'is', 'my', 'home', 'page,', 'with', 'examples', 'of', 'some', 'of', 'my', 'hobbies.', 'At', 'the', 'moment,', 'I', 'have', 'some', 'questions', 'and', 'answers', 'about', 'digital', 'video', 'cameras.', 'I', 'also', 'have', 'raytraced', 'images', 'and', 'some', 'utility', 'programs', 'related', 'to', 'computer', 'graphics.', 'Making', 'music', 'is', 'another', 'one', 'of', 'my', 'interests,', 'but', 'I', \"don't\", 'have', 'the', 'disk', 'space', '(well...', 'or', 'the', 'talent)', 'to', 'put', 'it', 'online.', 'To', 'look', 'through', 'my', 'web', 'page,', 'you', 'can', 'look', 'at', 'the', 'index', 'or', 'click', 'on', 'a', 'link', 'below.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['TRV900', 'Camcorder']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['GL1', 'Camcorder']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Imaginary', 'Landscapes']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Source:', 'HF-Lab', 'etc.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['A', 'few', 'photographs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Other', 'landscapes.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Warp', '(for', 'GIMP)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Measurements']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Fractals.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Go', 'Linux']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Funny']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Lists']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Sailing']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Beale', 'Corner']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Personal', 'Page']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Danse', 'Libre']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Who', 'is', 'this']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['guy', 'anyway?']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['This', 'page', 'was', 'last', 'changed', 'Jan', '19', '2000']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Look', 'at', 'the', 'main', 'guest', 'book', 'or', 'the', 'TRV900', 'guest', 'book.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Linux', 'Any', 'browser', 'will', 'do']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['About', 'Myself']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "[\"I'm\", '23', 'and', 'from', 'Amersham', ',', 'Buckinghamshire', ',', 'UK', '.', 'I', 'currently', 'work', 'as', 'Website', 'Administrator', 'for', 'Armari', 'Ltd', ',', 'a', 'leading', 'specialist', 'manufacturer', 'and', 'integrator', 'of', 'high', 'performance', 'computer', 'systems', 'and', 'solutions.', 'My', 'previous', 'role', 'was', 'as', 'the', 'Assistant', 'Webmaster', 'for', 'The', 'Entertainer', '(Amersham)', 'Ltd', '.', 'the', 'UK', \"'s\", 'largest', 'independent', 'toy', 'retailer.']",
+  "labeled entities": "[(4, 4, 'LOC'), (6, 6, 'LOC'), (8, 8, 'LOC'), (17, 18, 'ORG'), (44, 45, 'ORG'), (48, 48, 'LOC')]"
+ },
+ {
+  "sentence": "['I', 'was', 'educated', 'at', 'Cademuir', 'International', 'School', ',', 'in', 'Scotland', 'which', 'has', 'sadly', 'now', 'closed,', 'and', 'then', 'at', 'West', 'Middlesex', 'College', '.']",
+  "labeled entities": "[(4, 6, 'ORG'), (9, 9, 'LOC'), (18, 20, 'ORG')]"
+ },
+ {
+  "sentence": "['I', 'am', 'a', 'member', 'of', 'Amersham', 'Free', 'Church', ',', 'which', 'is', 'where', 'I', 'have', 'been', 'part', 'of,', 'all', 'my', 'life.']",
+  "labeled entities": "[(5, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Hobbies', 'and', 'Interests']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Including', 'but', 'not', 'limited', 'to:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Archery']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'am', 'a', 'member', 'of', 'Whiteleaf', 'Bowmen', ',', 'a', 'local', 'club', 'and', 'shoot', 'there', 'regularly.']",
+  "labeled entities": "[(5, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['I', 'am', 'also', 'a', 'qualified', 'Archery', 'Leader', 'and', 'regularly', 'teach', 'the', 'sport', 'to', 'beginners.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Music']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'play', 'the', 'Violin,', 'Tin', 'Whistle,', 'and', 'Bowed', 'Psaltery,', 'mostly', 'by', 'ear,', 'but', 'I', 'do', 'read', 'music', 'and', 'play', 'the', 'Violin', 'in', 'my', 'Church', \"'s\", 'orchestra.']",
+  "labeled entities": "[(23, 23, 'ORG')]"
+ },
+ {
+  "sentence": "['Web', 'design']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'create', 'and', 'manage', 'the', 'web', 'sites', 'for', 'a', 'few', 'local', 'organisations']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Photography']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['You', 'will', 'find', 'a', 'selection', 'of', 'my', 'photographs', 'on', 'this', 'site,', 'which', 'I', 'update', 'from', 'time', 'to', 'time.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Larry', 'Cuba', 'is', 'widely', 'recognized', 'as', 'a', 'pioneer', 'in', 'the', 'use', 'of', 'computers', 'in', 'animation', 'art.', 'Producing', 'his', 'first', 'computer', 'animation', 'in', '1974,', 'Cuba', 'was', 'at', 'the', 'forefront', 'of', 'the', 'computer-animation', 'artists', 'considered', 'the', '\"second', 'generation\"', '---', 'those', 'who', 'directly', 'followed', 'the', 'visionaries', 'of', 'the', 'sixties:', 'John', 'Whitney,', 'Sr.', ',', 'Stan', 'Vanderbeek', 'and', 'Lillian', 'Schwartz', '.']",
+  "labeled entities": "[(0, 1, 'PER'), (23, 23, 'PER'), (46, 48, 'PER'), (50, 51, 'PER'), (53, 54, 'PER')]"
+ },
+ {
+  "sentence": "['While', 'still', 'a', 'graduate', 'student', 'at', 'The', 'California', 'Institute', 'of', 'the', 'Arts', ',', 'he', 'was', 'convinced', 'of', 'the', 'artistic', 'potential', 'of', 'computer', 'graphics,', 'but', 'this', 'was', 'years', 'before', 'art', 'schools', 'began', 'teaching', 'the', 'subject.', 'Cuba', \"'s\", 'solution', 'was', 'to', 'solicit', 'access', 'to', 'the', 'mainframe', 'computers', 'at', 'NASA', \"'s\", 'Jet', 'Propulsion', 'Lab', 'and', 'teach', 'himself', 'computer', 'animation', 'by', 'producing', 'his', 'first', 'film,', 'First', 'Fig.']",
+  "labeled entities": "[(6, 11, 'ORG'), (34, 34, 'PER'), (46, 46, 'ORG'), (48, 50, 'ORG')]"
+ },
+ {
+  "sentence": "['In', '1975,', 'John', 'Whitney,', 'Sr.', 'invited', 'Cuba', 'to', 'be', 'the', 'programmer', 'on', 'one', 'of', 'his', 'films.', 'The', 'result', 'of', 'this', 'collaboration', 'was', 'Arabesque.']",
+  "labeled entities": "[(2, 4, 'PER'), (6, 6, 'PER')]"
+ },
+ {
+  "sentence": "['Subsequently,', 'Cuba', 'produced', 'three', 'more', 'computer-animated', 'films:', '3/78', '(Objects', 'and', 'Transformations),', 'Two', 'Space,', 'and', 'Calculated', 'Movements.', 'These', 'works', 'were', 'shown', 'at', 'film', 'festivals', 'throughout', 'the', 'world---including', 'Los', 'Angeles', ',', 'Hiroshima', ',', 'Zagreb', 'and', 'Bangkok', '---and', 'have', 'won', 'numerous', 'awards.', 'Cuba', \"'s\", 'been', 'invited', 'to', 'present', 'his', 'work', 'at', 'various', 'conferences', 'such', 'as', 'Siggraph', ',', 'ISEA', ',', 'Ars', 'Electronica', ',', 'and', 'Art', 'and', 'Math', 'Moscow', 'and', 'his', 'films', 'have', 'been', 'included', 'in', 'screenings', 'at', 'New', \"York's\", 'Museum', 'of', 'Modern', 'Art', ',', 'The', 'Hirshhorn', 'Museum', ',', 'The', 'San', 'Francisco', 'Museum', 'of', 'Modern', 'Art', ',', 'The', 'Art', 'Institute', 'of', 'Chicago', ',', 'The', 'Amsterdam', 'Filmmuseum', 'and', 'the', 'Isetan', 'Museum', 'of', 'Art,', 'Tokyo.']",
+  "labeled entities": "[(1, 1, 'PER'), (26, 27, 'LOC'), (29, 29, 'LOC'), (31, 31, 'LOC'), (33, 33, 'LOC'), (39, 39, 'PER'), (52, 52, 'ORG'), (54, 54, 'ORG'), (56, 57, 'ORG'), (60, 63, 'ORG'), (73, 78, 'LOC'), (80, 82, 'LOC'), (84, 90, 'LOC'), (92, 96, 'LOC'), (98, 100, 'LOC'), (103, 107, 'LOC')]"
+ },
+ {
+  "sentence": "['Cuba', 'received', 'grants', 'for', 'his', 'work', 'from', 'the', 'American', 'Film', 'Institute', 'and', 'The', 'National', 'Endowment', 'for', 'the', 'Arts', 'and', 'was', 'awarded', 'a', 'residency', 'at', 'the', 'Center', 'for', 'Art', 'and', 'Media', 'Technology', 'Karlsruhe', '(ZKM)', '.', 'He', 'has', 'served', 'on', 'the', 'juries', 'for', 'the', 'Siggraph', 'Electronic', 'Theater', ',', 'the', 'Montpellier', 'Festival', 'of', 'Abstract', 'Film', ',', 'The', 'Ann', 'Arbor', 'Film', 'Festival', 'and', 'Ars', 'Electronica', '.']",
+  "labeled entities": "[(0, 0, 'PER'), (8, 10, 'ORG'), (12, 17, 'ORG'), (25, 32, 'ORG'), (42, 44, 'ORG'), (47, 51, 'ORG'), (54, 57, 'ORG'), (59, 60, 'ORG')]"
+ },
+ {
+  "sentence": "['In', 'the', 'pure', 'form', 'of', 'abstraction', 'that', 'Cuba', 'pursues,', 'visual', 'perception', 'is', 'paramount.', 'But', 'because', 'the', 'images', 'are', 'generated', 'via', 'algorithms', 'written', 'in', 'computer', 'language,', 'there', 'is', 'a', 'paradox', 'in', 'trying', 'to', 'use', 'words', 'to', 'describe', 'images', 'for', 'which', 'words', 'do', 'not', 'exist.']",
+  "labeled entities": "[(7, 7, 'PER')]"
+ },
+ {
+  "sentence": "['As', 'Raphael', 'Bassan', 'wrote', 'in', 'a', '1981', 'issue', 'of', 'La', 'Revue', 'du', 'Cinema', ',', '\"The', 'computer', 'animation', 'establishes', 'a', 'parallel', 'between', 'visual', 'perception', 'and', 'a', 'structure', 'of', 'linguistic', 'or', 'mathematical', 'order:', 'it', 'is', 'concerned', 'with', 'establishing', 'a', 'new', 'organizational', 'field', 'for', 'the', 'aesthetic', 'material.', 'ÉIn', 'the', 'sphere', 'of', 'abstract', 'cinema', '(lacking', 'a', 'better', 'term),', 'Larry', 'Cuba', \"'s\", 'research', 'is,', 'in', 'fact,', 'at', 'the', 'origin', 'of', 'a', 'new', 'direction', 'which', 'does', 'not', 'yet', 'have', 'a', 'nameÉ\"']",
+  "labeled entities": "[(1, 2, 'PER'), (9, 12, 'PER'), (54, 55, 'PER')]"
+ },
+ {
+  "sentence": "['For', 'more', 'information,', 'see', 'the', 'articles', 'by', 'Gene', 'Youngblood', 'and', 'Bill', 'Moritz', '.']",
+  "labeled entities": "[(7, 8, 'PER'), (10, 11, 'PER')]"
+ },
+ {
+  "sentence": "['Filmography']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['First', 'Fig']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(1974)', '6', 'minute', '16mm,', 'Color']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['3/78', '(Objects', 'and', 'Transformations)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(1978)', '6', 'minutes', '16mm,', 'B/W']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Two', 'Space']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(1979)', '8', 'minutes', '16mm,', 'B/W']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Calculated', 'Movements']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(1985)', '6', 'minutes', '16mm,', 'B/W']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Bibliography']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Moritz,', 'William.', 'Visuelle', 'Musik,', 'Mediagramm,', 'Zentrum', 'fur', 'Kunst', 'und', 'Medientechnologie', 'Karlsruhe,', 'Juli', '1996']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Bendazzi,', 'Giannalberto', '.', 'Cartoons:', 'One', 'Hundred', 'Years', 'of', 'Cinema', 'Animation,', 'University', 'of', 'Indiana', 'Press', ',', '1994']",
+  "labeled entities": "[(0, 1, 'PER'), (10, 13, 'ORG')]"
+ },
+ {
+  "sentence": "['Gehr,', 'Herbert.', 'Sound', '&', 'Vision,', 'Musikvideo', 'und', 'Filmkunst,', 'Deutsches', 'Filmmuseum', ',', 'Frankfurt', ',', '1993']",
+  "labeled entities": "[(0, 1, 'PER'), (8, 9, 'ORG'), (11, 11, 'LOC')]"
+ },
+ {
+  "sentence": "['Binkley,', 'Timothy.', 'Refiguring', 'Culture,', 'Future', 'Visions:', 'New', 'Technologies', 'of', 'the', 'Screen,', '1993']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Kawahara,', 'Toshifumi.', 'World', 'Graphic', 'Design', 'Now', '#6,', 'Kodansha', ',', '1989']",
+  "labeled entities": "[(0, 1, 'PER'), (7, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['Binkley,', 'Timothy.', 'Computed', 'Visions', 'of', 'Virtual', 'Realities,', 'Millennium', 'Film', 'Journal,', 'Fall', \"'89\"]",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Russet,', 'R.', '&', 'Starr,', 'C.', 'Experimental', 'Animation:', 'Origins', 'of', 'a', 'New', 'Art,', 'Revised', '1988']",
+  "labeled entities": "[(0, 4, 'PER')]"
+ },
+ {
+  "sentence": "['Goodman,', 'Cynthia.', 'Digital', 'Visions:', 'Computers', 'and', 'Art,', '1987']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Youngblood,', 'Gene.', 'Calculated', 'Movements,', 'Video', 'and', 'the', 'Arts,', 'Winter,', '1986']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Giloth,', 'C.', '&', 'Veeder,', 'J.', 'The', 'Paint', 'Problem,', 'Computer', 'Graphics', 'and', 'Applications,', 'July', '1985']",
+  "labeled entities": "[(0, 4, 'PER')]"
+ },
+ {
+  "sentence": "['Abbado,', 'Adriano.', 'Immagini', 'con', 'il', 'Computer,', '1985']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Cook,', 'Rob.', 'Siggraph', \"'85:\", 'The', 'Film/Video', 'Show,', 'Computer', 'Graphics', 'World,', 'July,', '1985']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Edgar,', 'Robert.', 'Art', 'and', 'Technology,', 'Art', 'Papers,', 'Sep/Oct', '1985']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Solomon,', 'Charles.', 'Enchanted', 'Drawings,', 'The', 'History', 'of', 'Animation,', 'Knopf', ',', '1989']",
+  "labeled entities": "[(0, 1, 'PER'), (8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['Thompson,', 'Frank.', \"Atlanta's\", 'Computer', 'Animator,', 'Atlanta', 'Magazine', ',', 'March,', '1984']",
+  "labeled entities": "[(0, 1, 'PER'), (5, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['Allan,', 'Robb', 'A.', 'Creative', 'Computers,', 'Newsweek', ',', 'July', '5,', '1982']",
+  "labeled entities": "[(0, 2, 'PER'), (5, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Bassan,', 'Raphael.', 'Cinema', 'Abstrait', 'et', 'Experimental,', 'La', 'Revue', 'Du', 'Cinema,', 'March', '1981']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Perlman,', 'Marty.', 'The', 'Artist', 'and', 'the', 'Computer,', 'Santa', 'Barbara', 'News', 'and', 'Review', ',', '10/9/80']",
+  "labeled entities": "[(0, 1, 'PER'), (7, 11, 'ORG')]"
+ },
+ {
+  "sentence": "['Moritz,', 'William.', 'Non-Objective', 'Film:', 'The', 'Second', 'Generation,']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Film', 'as', 'Film:', 'Formal', 'Experiments', 'in', 'Film', '1910-1975,', '1979']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Glabicki,', 'Paul.', 'Animation', 'Art,', 'Field', 'of', 'Vision,', 'Fall,', '1979']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Welcome', 'to', 'Steven', \"'s\", 'Home', 'Page']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'About', 'Me', '(coming', 'soon)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'My', 'Career']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'My', 'Economics', 'Home', 'Page', '(down', 'for', 'updating)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Current', 'CV']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'My', 'Hobbies', '(coming', 'soon)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Skiing']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Surfing']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Tramping']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Team', 'Sports']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Travel', '(coming', 'soon)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Airlines/Airfare']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'Hotels']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['o', 'US']",
+  "labeled entities": "[(1, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['o', 'Canada']",
+  "labeled entities": "[(1, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['o', 'Europe']",
+  "labeled entities": "[(1, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['o', 'India']",
+  "labeled entities": "[(1, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['*', 'Links', 'to', 'Friends', '(coming', 'soon)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Email', 'Steven']",
+  "labeled entities": "[(2, 2, 'LOC')]"
+ },
+ {
+  "sentence": "['Natasha', \"'s\", 'Home', 'Page']",
+  "labeled entities": "[(0, 0, 'LOC')]"
+ },
+ {
+  "sentence": "['Our', 'Photo', 'Album']",
+  "labeled entities": "[]"
+ }
+]

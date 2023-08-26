@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py -dd dataset/EC -pm chinese -cd save -rd resource -knn True -beta 0.2 -sp 0.7 -nr 0.35

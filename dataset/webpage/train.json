@@ -1,0 +1,1542 @@
+[
+ {
+  "sentence": "['Karl', 'Crary']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['8127', 'Wean', 'Hall']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['School', 'of', 'Computer', 'Science', 'Carnegie', 'Mellon', 'University']",
+  "labeled entities": "[(0, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['5000', 'Forbes', 'Avenue', 'Pittsburgh,', 'PA', '15213']",
+  "labeled entities": "[(0, 5, 'LOC')]"
+ },
+ {
+  "sentence": "['Phone:', '(412)', '268-7687', 'Fax:', '(412)', '268-5576', 'crary@cs.cmu.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Research', 'Interests']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['My', 'research', 'interests', 'are', 'in', 'applying', 'programming', 'language', 'technology', 'to', 'improve', 'the']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['development,', 'maintenance,', 'and', 'performance', 'of', 'software', 'systems.', 'I', 'am', 'particularly']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['interested', 'in', 'mechanization', 'of', 'the', 'metatheory', 'of', 'programming', 'languages,', 'type-oriented']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['compilation', 'strategies,', 'in', 'type-based', 'certification', 'of', 'machine', 'code,', 'and', 'in', 'the', 'design']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['of', 'practical,', 'high-', 'or', 'low-level', 'programming', 'languages.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Publications']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Most', 'of', 'my', 'publications', 'are', 'available', 'online.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Teaching']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'This', 'Spring,', 'I', 'am', 'teaching', 'HOT', 'Compilation', '(15-501)', ',', 'an']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['undergraduate', 'course', 'on', 'the', 'implementation', 'of', 'compilers', 'for', 'higher-order,', 'typed', 'languages.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Current', 'Students']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Aleksey', 'Kliger']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Daniel', 'Lee']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Susmit', 'Sarkar']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Former', 'Students']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Derek', 'Dreyer']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Tom', 'Murphy']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Leaf', 'Petersen']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Joe', 'Vanderwaart']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Current', 'Events']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['\"Of', 'all', 'the', 'commandments,', 'which', 'is', 'the', 'most', 'important?\"']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['\"The', 'most', 'important', 'one,\"', 'answered', 'Jesus', ',', '\"is', 'this:', \"'Hear,\", 'O']",
+  "labeled entities": "[(5, 5, 'PER')]"
+ },
+ {
+  "sentence": "['Israel', ',', 'the', 'Lord', 'our', 'God,', 'the', 'Lord', 'is', 'one.', 'Love', 'the']",
+  "labeled entities": "[(0, 0, 'LOC'), (3, 3, 'PER'), (7, 7, 'PER')]"
+ },
+ {
+  "sentence": "['Lord', 'your', 'God', 'with', 'all', 'your', 'heart', 'and', 'with', 'all', 'your', 'soul', 'and', 'with']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['all', 'your', 'mind', 'and', 'with', 'all', 'your', \"strength.'\", 'The', 'second', 'is', 'this:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "[\"'Love\", 'your', 'neighbor', 'as', \"yourself.'\", 'There', 'is', 'no', 'commandment', 'greater', 'than', 'these.\"']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['--', 'Mark', '12:29-31']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Anant', 'Agarwal']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Position:', 'Faculty']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Office:', '32-G782']",
+  "labeled entities": "[(0, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['Phone:253-1448']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['E-mail:', 'agarwal@csail.mit.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Research', 'Directorate(s):', 'Systems']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['URL:', 'http://cag.csail.mit.edu/~agarwal/']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Biography:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Anant', 'Agarwal', 'holds', 'a', 'Ph.D.', '(1987)', 'and', 'an', 'MS', 'in', 'Electrical', 'Engineering', 'from', 'Stanford', 'University', '.', 'He', 'got', 'his', \"bachelor's\", 'degree', 'in', 'Electrical', 'Engineering', 'from', 'IIT', 'Madras', '(1982).', 'He', 'is', 'currently', 'a', 'professor', 'of', 'Electrical', 'Engineering', 'and', 'Computer', 'Science', 'at', 'MIT', ',', 'where', 'his', 'teaching', 'and', 'research', 'interests', 'include', 'VLSI', ',', 'computer', 'architecture,', 'compilation,', 'and', 'software', 'systems', '.', 'He', 'led', 'a', 'group', 'that', 'developed', 'the', 'MIT', 'Alewife', ',', 'a', 'scalable', 'shared-memory', 'multiprocessor.', 'He', 'also', 'led', 'the', 'VirtualWires', 'project', 'at', 'MIT', 'and', 'was', 'founder', 'of', 'Virtual', 'Machine', 'Works,', 'Inc.', ',', 'which', 'took', 'the', 'VirtualWires', 'logic', 'emulation', 'technology', 'to', 'market.', 'He', 'currently', 'leads', 'the', 'Raw', 'project', 'in', 'the', 'Computer', 'Science', 'and', 'Artificial', 'Intelligence', 'Laboratory', '.', 'He', 'is', 'also', 'founder', 'of', 'InCert', 'Software', 'Corporation', ',', 'which', 'is', 'applying', 'a', 'software', 'agent', 'technology', 'to', 'enterprise', 'applications', 'management.']",
+  "labeled entities": "[(1, 1, 'PER'), (13, 14, 'ORG'), (25, 26, 'ORG'), (40, 40, 'ORG'), (79, 79, 'ORG'), (84, 87, 'ORG'), (106, 111, 'ORG'), (118, 120, 'ORG')]"
+ },
+ {
+  "sentence": "['Recent', 'and/or', 'Significant', 'Publications:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['A.', 'Agarwal,', 'M.', 'Horowitz,', 'and', 'John', 'Hennessy.', '\"An', 'Analytical', 'Cache', 'Model.\"', 'ACM', 'Transactions', 'on', 'Computer', 'Systems', ',', '7:2,', 'May', '1989,', 'pp.', '184-215.']",
+  "labeled entities": "[(0, 3, 'PER'), (5, 6, 'PER'), (7, 10, 'MISC'), (11, 15, 'MISC')]"
+ },
+ {
+  "sentence": "['A.', 'Agarwal,', 'J.', 'Babb,', 'D.', 'Chaiken,', 'G.D.', 'Souza,', 'K.', 'Johnson,', 'D.', 'Kranz,', 'J.', 'Kubiatowicz,', 'B.H.', 'Lim,', 'G.', 'Maa,', 'K.', 'MacKenzie,', 'D.', 'Nussbaum,', 'M.', 'Parkin,', 'and', 'D.', 'Yeung.', '\"Sparcle:', \"Today's\", 'micro', 'for', \"Tomorrow's\", 'Multiprocessor.\"', 'In', 'proceedings', 'of', 'the', 'HOTCHIPS', 'Conference', ',', 'August', '1992,', 'and', 'also', 'in', 'IEEE', 'Micro', '13:3', ',', 'June', '1993,', 'PP.48-61.']",
+  "labeled entities": "[(0, 23, 'PER'), (25, 26, 'PER'), (27, 32, 'MISC'), (33, 38, 'MISC')]"
+ },
+ {
+  "sentence": "['J.', 'Babb,', 'R.', 'Tessier,', 'and', 'A.', 'Agarwal.', '\"Virtual', 'Wires:', 'Overcoming', 'Pin', 'Limitations', 'in', 'FPGA-Based', 'Logic', 'Emulators.\"', 'In', 'proceedings', 'of', 'the', 'First', 'IEEE', 'Workshop', 'on', 'FPGAs', 'for', 'Custom', 'Computing', 'Machines', '(FCCM\"93)', '.', 'April', '1993,', 'pp', '142-151.']",
+  "labeled entities": "[(0, 0, 'PER'), (2, 2, 'PER'), (5, 5, 'PER')]"
+ },
+ {
+  "sentence": "['A.', 'Agarwal,', 'R.', 'Bianchini,', 'D.', 'Chaiken,', 'K.', 'Johnson,', 'D.', 'Kranz,', 'J.', 'Kubiatowicz,', 'B.', 'H.', 'LIm,', 'K.', 'MacKenzie,', 'and', 'D.', 'Yeung.', '\"', 'The', 'MIT', 'Alewife', 'Machine:', 'Architecture', 'and', 'Performance.\"', 'In', 'proceedings', 'of', 'the', '22nd', 'Annual', 'Internationsl', 'Symposium', 'on', 'Computer', 'Architecture', '(ISCA', '1995)', ',', 'June', '1995,', 'pp', '2-13.']",
+  "labeled entities": "[(0, 16, 'PER'), (18, 19, 'PER'), (20, 27, 'MISC'), (28, 40, 'MISC')]"
+ },
+ {
+  "sentence": "['MIT', 'Computer', 'Science', 'and', 'Artificial', 'Intelligence', 'Laboratory']",
+  "labeled entities": "[(0, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['The', 'Stata', 'Center,', 'Building', '32', '-', '32', 'Vassar', 'Street', '-', 'Cambridge,', 'MA', '02139', '-', 'USA']",
+  "labeled entities": "[(0, 14, 'LOC')]"
+ },
+ {
+  "sentence": "['tel:+1-617-253-5851', '-', 'webmaster@csail.mit.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['People', '>', 'Donald', 'E.', 'Troxel', '>', 'Biographical', 'Background']",
+  "labeled entities": "[(2, 4, 'PER')]"
+ },
+ {
+  "sentence": "['Donald', 'E.', 'Troxel']",
+  "labeled entities": "[(0, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Donald', 'E.', 'Troxel']",
+  "labeled entities": "[(0, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Professor', 'of', 'Electrical', 'Engineering']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Biographical', 'Background']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Professor', 'Donald', 'E.', 'Troxel', 'is', 'a', 'principal', 'investigator', 'in', 'the', 'Research', 'Laboratory', 'of', 'Electronics', '(RLE)', 'at', 'the', 'Massachusetts', 'Institute', 'of', 'Technology', '(MIT)', '.', 'He', 'received', 'the', 'B.S.', 'degree', 'in', 'electrical', 'engineering', 'from', 'Rutgers', 'University', 'in', '1956.', 'He', 'received', 'the', 'S.M.', 'and', 'Ph.D.', 'degrees', 'in', 'electrical', 'engineering', 'from', 'the', 'Massachusetts', 'Institute', 'of', 'Technology', 'in', '1960', 'and', '1962.', 'He', 'has', 'been', 'at', 'MIT', 'since', '1962,', 'first', 'as', 'a', 'Ford', 'Foundation', 'Post-doctoral', 'Fellow', ',', 'Assistant', 'Professor', ',', 'Associate', 'Professor', ',', 'and', 'now', 'as', 'Professor', 'of', 'Electrical', 'Engineering', '.']",
+  "labeled entities": "[(1, 3, 'PER'), (10, 14, 'ORG'), (17, 21, 'ORG'), (32, 33, 'ORG'), (48, 51, 'ORG'), (60, 60, 'ORG'), (66, 69, 'ORG')]"
+ },
+ {
+  "sentence": "['His', 'teaching', 'activities', 'have', 'centered', 'around', 'undergraduate', 'electronics', 'and', 'digital', 'systems', 'laboratories.', 'Professor', 'Troxel', \"'s\", 'principal', 'research', 'interests', 'include', 'digital', 'systems', 'design', 'and', 'computer', 'aided', 'fabrication', 'of', 'integrated', 'circuits.', 'Early', 'research', 'interests', 'were', 'concerned', 'with', 'tactile', 'communication,', 'sensory', 'aids', 'for', 'the', 'blind,', 'optical', 'character', 'recognition,', 'picture', 'processing,', 'image', 'bandwidth', 'compression,', 'and', 'graphic', 'arts', 'applications.']",
+  "labeled entities": "[(13, 13, 'PER')]"
+ },
+ {
+  "sentence": "['Coye', 'Cheshire']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Assistant', 'Professor']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Current', 'Research']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'am', 'interested', 'in', 'the', 'social', 'aspects', 'of', 'computer', 'networks', 'and', 'exchange', 'systems.', 'My', 'current', 'research', 'topics', 'include', 'the', 'role', 'of', 'information', 'as', 'the', 'object', 'of', 'exchange', 'in', 'social', 'exchange', 'environments', 'and', 'the', 'production', 'of', 'collective', 'goods', 'in', 'computer-mediated', 'exchange', 'networks.', 'My', 'current', 'collaborative', 'work', 'on', 'focuses', 'on', 'the', 'relationship', 'between', 'exchange', 'structures', 'and', 'risk,', 'uncertainty,', 'trust,', 'and', 'cooperation', '(in', 'the', 'U.S.', 'and', 'across', 'societies).']",
+  "labeled entities": "[(61, 61, 'LOC')]"
+ },
+ {
+  "sentence": "['Education']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['B.A.,', 'Sociology', ',', 'University', 'of', 'North', 'Carolina', 'at', 'Chapel', 'Hill', ',', '1997']",
+  "labeled entities": "[(3, 9, 'ORG')]"
+ },
+ {
+  "sentence": "['M.A.,', 'Sociology', ',', 'Stanford', 'University', ',', '1998']",
+  "labeled entities": "[(3, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Ph.D.,', 'Sociology', ',', 'Stanford', 'University', ',', '2005']",
+  "labeled entities": "[(3, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['What', 'is', 'the', 'best', 'thing', 'about', 'working', 'at', 'the', 'iSchool', '?']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['One', 'of', 'the', 'most', 'exciting', 'and', 'rewarding', 'things', 'about', 'our', 'program', 'is', 'its', 'multi-disciplinary', 'nature.', 'I', 'love', 'the', 'fact', 'that', 'faculty', 'and', 'students', 'are', 'continually', 'exposed', 'to', 'new,', 'cutting-edge', 'research', 'that', 'spans', 'the', 'social,', 'technical,', 'theoretical,', 'and', 'practical', 'dimensions', 'of', 'information', 'and', 'information', 'technology.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Something', 'few', 'people', 'know', 'about', 'me']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'know', 'little', 'to', 'nothing', 'about', 'sports.', 'Despite', 'my', 'best', 'efforts', 'to', 'hide', 'this', 'fact,', 'my', 'cover', 'was', 'once', 'blown', 'when', 'I', 'sincerely', 'congratulated', 'my', 'graduate', 'school', 'advisorÕs', 'son', 'for', 'throwing', 'several', 'successful', 'ÔinterceptionsÕ', 'during', 'a', 'high', 'school', 'football', 'game.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['How', 'to', 'Reach', 'Me']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Office:', '305A', 'South', 'Hall']",
+  "labeled entities": "[(0, 3, 'LOC')]"
+ },
+ {
+  "sentence": "['Office', 'Hours:', 'Tue', '&', 'Thu', '4-5', 'pm']",
+  "labeled entities": "[(2, 2, 'PER'), (4, 4, 'PER')]"
+ },
+ {
+  "sentence": "['Personal', 'Website:', 'http://www.sims.berkeley.edu/~coye/']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Email:', 'coye@ischool', 'Voice:', '(510)', '643-6388']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Paul', 'Duguid']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Adjunct', 'Professor']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Current', 'Research']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Knowledge', 'in', 'organizations.', 'The', 'role', 'of', 'branding', 'in', 'asserting', 'the', 'quality', 'and', 'authenticity', 'of', 'information.', 'The', 'history', 'of', 'brands.', 'The', 'role', 'of', 'brands', 'in', 'vertical', 'competition', 'within', 'supply', 'chains.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Other', 'Activities']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Professorial', 'Research', 'Fellow,', 'Queen', 'Mary,', 'University', 'of', 'London']",
+  "labeled entities": "[(3, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Visiting', 'Fellow,', 'Lancaster', 'University', 'Management', 'School']",
+  "labeled entities": "[(0, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Education']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['BA,', 'English', '&', 'Philosophy', ',', 'Bristol', 'University', ',', 'UK', ',', '1976']",
+  "labeled entities": "[(5, 6, 'ORG'), (8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['MA,', 'English', 'Literature', ',', 'Washington', 'University', ',', 'St.', 'Louis', ',', '1980']",
+  "labeled entities": "[(4, 5, 'ORG'), (7, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['What', 'is', 'the', 'best', 'thing', 'about', 'working', 'at', 'the', 'I', 'School', '?']",
+  "labeled entities": "[(9, 10, 'ORG')]"
+ },
+ {
+  "sentence": "['Multidisciplinary', 'faculty', 'and', 'students.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['What', 'Information', 'issues', 'interests', 'you', 'most?']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Questions', 'of', 'quality', 'and', 'information.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['How', 'to', 'Reach', 'Me']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Office:', '203A', 'South', 'Hall']",
+  "labeled entities": "[(0, 3, 'LOC')]"
+ },
+ {
+  "sentence": "['Personal', 'Website:', 'http://www.ischool.berkeley.edu/~duguid/']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Email:', 'duguid@ischool', 'Voice:', '(510)', '643-3894']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Ron', 'Fedkiw']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Associate', 'Professor']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Stanford', 'Computer', 'Science']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Ph.D.', 'Applied', 'Mathematics', ',', 'UCLA']",
+  "labeled entities": "[(4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Computer', 'Science', 'Department']",
+  "labeled entities": "[(0, 2, 'ORG')]"
+ },
+ {
+  "sentence": "['Stanford', 'University']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['Gates', 'Computer', 'Science', 'Bldg.,', 'Room', '207']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Stanford,', 'CA', '94305-9020']",
+  "labeled entities": "[(0, 2, 'LOC')]"
+ },
+ {
+  "sentence": "['fedkiw@cs.stanford.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Phone:', '(650)', 'xxx-xxxx']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['directions', 'to', 'Stanford']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['directions', 'to', 'the', 'Gates', 'building']",
+  "labeled entities": "[(3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['CS', 'Broad', 'Area', 'Colloquium']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Institute', 'for', 'Computational', 'and', 'Mathematical', 'Engineering']",
+  "labeled entities": "[(0, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Brief', 'Bio']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Fedkiw', 'received', 'his', 'Ph.D.', 'in', 'Mathematics', 'from', 'UCLA', 'in', '1996', 'and', 'did', 'postdoctoral', 'studies', 'both', 'at', 'UCLA', 'in', 'Mathematics', 'and', 'at', 'Caltech', 'in', 'Aeronautics', 'before', 'joining', 'the', 'Stanford', 'Computer', 'Science', 'Department', '.', 'He', 'was', 'awarded', 'an', 'Academy', 'Award', 'from', 'The', 'Academy', 'of', 'Motion', 'Picture', 'Arts', 'and', 'Sciences', ',', 'the', 'National', 'Academy', 'of', 'Science', 'Award', 'for', 'Initiatives', 'in', 'Research', ',', 'a', 'Packard', 'Foundation', 'Fellowship', ',', 'a', 'Presidential', 'Early', 'Career', 'Award', 'for', 'Scientists', 'and', 'Engineers', '(PECASE)', ',', 'a', 'Sloan', 'Research', 'Fellowship', ',', 'the', 'ACM', 'Siggraph', 'Significant', 'New', 'Researcher', 'Award', ',', 'an', 'Office', 'of', 'Naval', 'Research', 'Young', 'Investigator', 'Program', 'Award', '(ONR', 'YIP)', ',', 'the', 'Okawa', 'Foundation', 'Research', 'Grant', ',', 'the', 'Robert', 'Bosch', 'Faculty', 'Scholarship', ',', 'the', 'Robert', 'N.', 'Noyce', 'Family', 'Faculty', 'Scholarship', ',', 'two', 'distinguished', 'teaching', 'awards,', 'etc.', 'Currently', 'he', 'is', 'on', 'the', 'editorial', 'board', 'of', 'the', 'Journal', 'of', 'Computational', 'Physics', ',', 'Journal', 'of', 'Scientific', 'Computing', ',', 'SIAM', 'Journal', 'on', 'Imaging', 'Sciences', ',', 'and', 'Communications', 'in', 'Mathematical', 'Sciences', ',', 'and', 'he', 'participates', 'in', 'the', 'reviewing', 'process', 'of', 'a', 'number', 'of', 'journals', 'and', 'funding', 'agencies.', 'He', 'has', 'published', 'over', '80', 'research', 'papers', 'in', 'computational', 'physics,', 'computer', 'graphics', 'and', 'vision,', 'as', 'well', 'as', 'a', 'book', 'on', 'level', 'set', 'methods.', 'For', 'the', 'past', 'seven', 'years,', 'he', 'has', 'been', 'a', 'consultant', 'with', 'Industrial', 'Light', '+', 'Magic', '.', 'He', 'received', 'scrscr', 'credits', 'for', 'his', 'work', 'on', '\"Terminator', '3:', 'Rise', 'of', 'the', 'Machines\"', ',', '\"Star', 'Wars:', 'Episode', 'III', '-', 'Revenge', 'of', 'the', 'Sith\"', ',', '\"Poseidon\"', 'and', '\"Evan', 'Almighty\"', '.']",
+  "labeled entities": "[(7, 7, 'ORG'), (16, 16, 'ORG'), (21, 21, 'ORG'), (27, 30, 'ORG'), (36, 37, 'MISC'), (39, 46, 'ORG'), (49, 55, 'MISC'), (60, 62, 'MISC'), (65, 73, 'MISC'), (76, 78, 'MISC'), (81, 86, 'MISC'), (89, 96, 'MISC'), (101, 104, 'ORG'), (107, 110, 'MISC'), (113, 118, 'MISC'), (134, 137, 'MISC'), (139, 142, 'MISC'), (144, 145, 'MISC')]"
+ },
+ {
+  "sentence": "['Research']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['My', 'research', 'is', 'focused', 'on', 'the', 'design', 'of', 'new', 'computational', 'algorithms', 'for', 'a', 'variety', 'of', 'applications', 'including', 'computational', 'fluid', 'dynamics', 'and', 'solid', 'mechanics,', 'computer', 'graphics,', 'computer', 'vision', 'and', 'computational', 'biomechanics.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Two', 'way', 'coupled', 'SPH', 'and', 'particle', 'level', 'set', 'fluid', 'simulation', '(with', 'Frank', 'Losasso', ',', 'Jerry', 'Talton', 'and', 'Nipun', 'Kwatra', ').']",
+  "labeled entities": "[(12, 13, 'PER'), (15, 16, 'PER'), (19, 19, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Hybrid', 'simulation', 'of', 'embedded', 'deformable', 'solids', 'and', 'rigid', 'bodies', '(with', 'Eftychios', 'Sifakis', ',', 'Tamar', 'Shinar', 'and', 'Geoffrey', 'Irving', ').']",
+  "labeled entities": "[(11, 11, 'PER'), (14, 15, 'PER'), (17, 17, 'PER'), (18, 18, 'LOC')]"
+ },
+ {
+  "sentence": "['*', 'Arbitrary', 'cutting', 'of', 'tetrahedral', 'meshes', '(with', 'Eftychios', 'Sifakis', 'and', 'Kevin', 'Der', ').']",
+  "labeled entities": "[(7, 7, 'PER'), (10, 11, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Fire', 'with', 'cellular', 'patterns', '(with', 'Jeong-Mo', 'Hong', 'and', 'Tamar', 'Shinar', ').']",
+  "labeled entities": "[(7, 7, 'PER'), (9, 10, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Incompressible', 'solids', '(with', 'Geoffrey', 'Irving', 'and', 'Craig', 'Schroeder', ').']",
+  "labeled entities": "[(4, 4, 'PER'), (5, 5, 'LOC'), (7, 8, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Fracturing', 'rigid', 'bodies', '(with', 'Josh', 'Bao', ',', 'Jeong-Mo', 'Hong', 'and', 'Joey', 'Teran', ').']",
+  "labeled entities": "[(5, 6, 'PER'), (9, 9, 'PER'), (11, 12, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Thin', 'shell', 'rigid', 'bodies', '(with', 'Josh', 'Bao', ',', 'Jeong-Mo', 'Hong', 'and', 'Joey', 'Teran', ').']",
+  "labeled entities": "[(6, 7, 'PER'), (10, 10, 'PER'), (12, 13, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Multiple', 'Interacting', 'Liquids', '(with', 'Frank', 'Losasso', ',', 'Tamar', 'Shinar', 'and', 'Andrew', 'Selle', ').']",
+  "labeled entities": "[(5, 6, 'PER'), (8, 9, 'PER'), (11, 12, 'PER')]"
+ },
+ {
+  "sentence": "['MANTASUIT']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['The', 'goal', 'is', 'to', 'design', 'an', 'underwater', 'diving', 'suit', 'that', 'provides', 'a', 'diver', 'with', 'an', 'exoskeleton', 'for', 'enhanced', 'locomotion,', 'as', 'well', 'as', 'augmented', 'reality', 'enhancements', 'for', 'underwater', 'vision', 'and', 'directional', 'sound', 'detection.', 'Concept', 'art', 'by', 'Wilson', 'Tang', '.']",
+  "labeled entities": "[(35, 36, 'PER')]"
+ },
+ {
+  "sentence": "['Academy', 'of', 'Motion', 'Picture', 'Arts', 'and', 'Sciences']",
+  "labeled entities": "[(0, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['Scientific', 'and', 'Technical', 'Awards', '-', 'Since', '1930/31', 'the', 'Academy', 'of', 'Motion', 'Picture', 'Arts', 'and', 'Sciences', 'has', 'conducted', 'a', 'program', 'for', 'honoring', 'the', 'artisans', 'whose', 'contributions', 'have', 'made', 'it', 'possible', 'for', 'an', 'industry', 'known', 'as', '\"The', 'Movies\"', 'to', 'exist.', 'Recognition', 'of', 'ingenuity,', 'efficiency', 'and', 'economy', 'toward', 'achieving', 'the', 'end', 'result', 'is', 'the', 'basic', 'purpose', 'of', 'the', 'Scientific', 'and', 'Technical', 'Awards.']",
+  "labeled entities": "[(0, 3, 'MISC'), (8, 14, 'ORG'), (55, 58, 'MISC')]"
+ },
+ {
+  "sentence": "['National', 'Academy', 'of', 'Sciences']",
+  "labeled entities": "[(0, 3, 'ORG')]"
+ },
+ {
+  "sentence": "['NAS', 'Award', 'for', 'Initiatives', 'in', 'Research', '-', 'awarded', 'to', 'recognize', 'innovative', 'young', 'scientists', 'and', 'to', 'encourage', 'research', 'likely', 'to', 'lead', 'toward', 'new', 'capabilities', 'for', 'human', 'benefit.', 'The', 'award', 'is', 'to', 'be', 'given', 'to', 'a', 'citizen', 'of', 'the', 'United', 'States', ',', 'preferably', 'no', 'older', 'than', '35', 'years', 'of', 'age.', 'The', 'field', 'of', 'presentation', 'rotates', 'among', 'the', 'physical', 'sciences,', 'engineering,', 'and', 'mathematics.']",
+  "labeled entities": "[(0, 3, 'MISC'), (37, 38, 'LOC')]"
+ },
+ {
+  "sentence": "['The', 'David', 'and', 'Lucille', 'Packard', 'Foundation']",
+  "labeled entities": "[(0, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Fellowships', 'for', 'Science', 'and', 'Engineering', '-', 'The', 'Foundation', 'has', 'a', 'long-standing', 'interest', 'in', 'strengthening', 'both', 'university-based', 'research', 'and', 'graduate', 'education.', 'Each', 'year,', 'they', 'generously(!)', 'select', '20', 'Fellows', 'to', 'receive', 'individual', 'grants', 'of', '$625,000', 'over', 'five', 'years.', 'The', 'Fellowship', 'Program', 'was', 'established', 'in', '1988.']",
+  "labeled entities": "[(0, 4, 'MISC'), (6, 7, 'ORG'), (26, 26, 'PER'), (36, 38, 'MISC')]"
+ },
+ {
+  "sentence": "['Presidential', 'Early', 'Career', 'Award', 'for', 'Scientists', 'and', 'Engineers']",
+  "labeled entities": "[(0, 7, 'MISC')]"
+ },
+ {
+  "sentence": "['PECASE', '-', 'I', 'went', 'to', 'the', 'White', 'House', 'for', 'the', 'PECASE', 'awards', 'ceremony', '(thank', 'you', 'Wen', '&', 'ONR', '!)', 'which', 'included', 'a', 'wonderful', 'speech', 'by', 'President', 'George', 'W.', 'Bush', '.']",
+  "labeled entities": "[(15, 15, 'PER'), (26, 26, 'PER')]"
+ },
+ {
+  "sentence": "['The', 'Alfred', 'P.', 'Sloan', 'Foundation']",
+  "labeled entities": "[(0, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Sloan', 'Research', 'Fellowships', '-', 'Currently', 'a', 'total', 'of', '116', 'fellowships', 'are', 'awarded', 'annually', 'in', 'seven', 'fields:', 'chemistry,', 'computational', 'and', 'evolutionary', 'molecular', 'biology,', 'computer', 'science,', 'economics,', 'mathematics,', 'neuroscience,', 'and', 'physics.']",
+  "labeled entities": "[(0, 2, 'MISC')]"
+ },
+ {
+  "sentence": "['ACM', 'SIGGRAPH']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['ACM', 'SIGGRAPH', 'Awards', 'Program', '-', 'The', 'ACM', 'SIGGRAPH', 'Awards', 'program', 'recognizes', 'individuals', 'who', 'have', 'made', 'a', 'significant', 'contribution', 'to', 'the', 'computer', 'graphics', 'community', 'through', 'their', 'research,', 'teaching,', 'service,', 'or', 'writing.']",
+  "labeled entities": "[(0, 3, 'MISC'), (5, 8, 'MISC')]"
+ },
+ {
+  "sentence": "['The', 'Okawa', 'Foundation']",
+  "labeled entities": "[(0, 2, 'ORG')]"
+ },
+ {
+  "sentence": "['The', 'Okawa', 'Foundation', 'Research', 'Grant', '-', 'The', 'Foundation', 'was', 'established', 'in', '1986', 'as', 'an', 'authorized', 'non-profit', 'organization', 'to', 'promote', 'the', 'growth', 'and', 'development', 'of', 'the', 'information', 'and', 'telecommunications', 'fields,', 'through', 'donations', 'from', 'the', 'late', 'Mr.', 'Isao', 'Okawa', '.']",
+  "labeled entities": "[(0, 4, 'ORG'), (6, 7, 'ORG'), (35, 36, 'PER')]"
+ },
+ {
+  "sentence": "['Publications']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Computational', 'Physics', '...']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Selle,', 'A.', ',', 'Fedkiw,', 'R.', ',', 'Kim,', 'B.-M.', ',', 'Liu,', 'Y.', 'and', 'Rossignac,', 'J.', ',', '\"An', 'Unconditionally', 'Stable', 'MacCormack', 'Method\"', ',', 'J.', 'Sci.', 'Comput.', ',', '(in', 'press).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 11, 'PER'), (13, 14, 'PER'), (16, 20, 'MISC'), (22, 24, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Hong,', 'J.-M.', ',', 'Shinar,', 'T.', ',', 'Kang,', 'M.', 'and', 'Fedkiw,', 'R.', ',', '\"On', 'Boundary', 'Condition', 'Capturing', 'for', 'Multiphase', 'Interfaces\"', ',', 'J.', 'Sci.', 'Comput.', '31,', '99-125', '(2007).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 11, 'PER'), (13, 19, 'MISC'), (21, 23, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Losasso,', 'F.', ',', 'Fedkiw,', 'R.', 'and', 'Osher', ',', '\"Spatially', 'Adaptive', 'Techniques', 'for', 'Level', 'Set', 'Methods', 'and', 'Incompressible', 'Flow\"', ',', 'Computers', 'and', 'Fluids', '35,', '995-1010', '(2006).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 7, 'PER'), (9, 18, 'MISC'), (20, 22, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Bridson,', 'R.', ',', 'Teran,', 'J.', ',', 'Molino,', 'N.', 'and', 'Fedkiw,', 'R.', ',', '\"Adaptive', 'Physics', 'Based', 'Tetrahedral', 'Mesh', 'Generation', 'Using', 'Level', 'Sets\"', ',', 'Engineering', 'with', 'Computers', '21,', '2-18', '(2005).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 11, 'PER'), (13, 21, 'MISC'), (23, 25, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Enright,', 'D.', ',', 'Losasso,', 'F.', 'and', 'Fedkiw,', 'R.', ',', '\"A', 'Fast', 'and', 'Accurate', 'Semi-Lagrangian', 'Particle', 'Level', 'Set', 'Method\"', ',', 'Computers', 'and', 'Structures', '83,', '479-490', '(2005).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 18, 'MISC'), (20, 22, 'MISC')]"
+ },
+ {
+  "sentence": "['Ph.D.', 'thesis...']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Fedkiw,', 'R.', ',', '\"A', 'Survey', 'of', 'Chemically', 'Reacting,', 'Compressible', 'Flow\"', ',', 'Ph.D.', 'Thesis,', 'UCLA', 'Mathematics', 'Department', ',', 'June', '1996.']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 10, 'MISC'), (12, 12, 'MISC'), (13, 16, 'ORG')]"
+ },
+ {
+  "sentence": "['Computer', 'Graphics', ',', 'Vision', '&', 'Biomechanics', '...']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Losasso,', 'F.', ',', 'Talton,', 'J.', ',', 'Kwatra,', 'N.', 'and', 'Fedkiw,', 'R.', ',', '\"Two-way', 'Coupled', 'SPH', 'and', 'Particle', 'Level', 'Set', 'Fluid', 'Simulation\"', ',', 'IEEE', 'TVCG', '(in', 'press).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 11, 'PER'), (13, 21, 'MISC'), (23, 26, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Sifakis,', 'E.', ',', 'Der,', 'K.', 'and', 'Fedkiw,', 'R.', ',', '\"Arbitrary', 'Cutting', 'of', 'Deformable', 'Tetrahedralized', 'Objects\"', ',', 'ACM', 'SIGGRAPH/Eurographics', 'Symposium', 'on', 'Computer', 'Animation', '(SCA)', ',', 'edited', 'by', 'D.', 'Metaxas', 'and', 'J.', 'Popovic', ',', 'pp.', '73-80', '(2007).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 15, 'MISC'), (17, 23, 'MISC'), (27, 28, 'PER'), (30, 31, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Sifakis,', 'E.', ',', 'Shinar,', 'T.', ',', 'Irving,', 'G.', 'and', 'Fedkiw,', 'R.', ',', '\"Hybrid', 'Simulation', 'of', 'Deformable', 'Solids\"', ',', 'ACM', 'SIGGRAPH/Eurographics', 'Symposium', 'on', 'Computer', 'Animation', '(SCA)', ',', 'edited', 'by', 'D.', 'Metaxas', 'and', 'J.', 'Popovic', 'pp.', '81-90', '(2007).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 11, 'PER'), (13, 17, 'MISC'), (19, 25, 'MISC'), (29, 30, 'PER'), (32, 33, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Hong,', 'J.-M.', ',', 'Shinar,', 'T.', 'and', 'Fedkiw,', 'R.', ',', '\"Wrinkled', 'Flames', 'and', 'Cellular', 'Patterns\"', ',', 'SIGGRAPH', '2007', ',', 'ACM', 'TOG', '26,', '47.1-47.6', '(2007).']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER'), (10, 14, 'MISC'), (16, 17, 'MISC')]"
+ },
+ {
+  "sentence": "['Students']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Ph.D.', 'Students']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Andrew', 'Selle']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Tamar', 'Shinar']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Avi', 'Robinson-Mosher']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Stanford', 'Graduate', 'Fellow']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Jonathan', 'Su']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['NSF', 'Graduate', 'Research', 'Fellow']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Kevin', 'Der']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['NSF', 'Graduate', 'Research', 'Fellow']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Nipun', 'Kwatra']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Craig', 'Schroeder']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Jon', 'Gretarsson']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Michael', 'Lentine']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Former', 'Ph.D.', 'Students']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Douglas', 'Enright', 'Ph.D.', '2002', '-', 'Aerospace', 'Corporation']",
+  "labeled entities": "[(1, 2, 'PER'), (6, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Ian', 'Mitchell', 'Ph.D.', '2002', 'co-advisor', '(primary', 'advisor', '-', 'Claire', 'Tomlin', ')', '-', 'Assistant', 'Professor', 'at', 'the', 'University', 'of', 'British', 'Columbia']",
+  "labeled entities": "[(1, 2, 'PER'), (9, 10, 'PER'), (17, 20, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Robert', 'Bridson', 'Ph.D.', '2003', '-', 'Assistant', 'Professor', 'at', 'the', 'University', 'of', 'British', 'Columbia']",
+  "labeled entities": "[(1, 2, 'PER'), (10, 13, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Neil', 'Molino', 'Ph.D.', '2004', '-', 'Morgan', 'Stanley']",
+  "labeled entities": "[(1, 2, 'PER'), (6, 7, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Igor', 'Neverov', 'Ph.D.', '2005', '-', 'Insomniac', 'Games']",
+  "labeled entities": "[(1, 1, 'PER'), (7, 7, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Joseph', 'Teran', 'Ph.D.', '2005', '-', 'Assistant', 'Professor', 'at', 'UCLA']",
+  "labeled entities": "[(1, 2, 'PER'), (9, 9, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Eran', 'Guendelman', 'Ph.D.', '2006', '-', 'Postdoctoral', 'Scholar', 'at', 'Stanford', 'in', 'Bioengineering', '(also', 'at', 'UCLA', ')']",
+  "labeled entities": "[(1, 1, 'PER'), (9, 9, 'PER'), (14, 14, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Zhaosheng', 'Bao', 'Ph.D.', '2006', '-', 'Microsoft', 'Research', 'Asia']",
+  "labeled entities": "[(1, 2, 'PER'), (8, 8, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Rachel', 'Weinstein', 'Ph.D.', '2007', '-', 'Industrial', 'Light', '+', 'Magic']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Eftychios', 'Sifakis', 'Ph.D.', '2007', '-', 'UCLA']",
+  "labeled entities": "[(1, 1, 'PER'), (6, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Frank', 'Losasso', 'Ph.D.', '2007', '-', 'Industrial', 'Light', '+', 'Magic']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Geoffrey', 'Irving', 'Ph.D.', '2007', '-', 'Pixar', 'Animation', 'Studios']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Former', 'Postdoctoral', 'Scholars']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Duc', 'Nguyen', '2001-2004', '-', 'Lockheed', 'Martin']",
+  "labeled entities": "[(1, 2, 'PER'), (6, 6, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Frederic', 'Gibou', '2001-2004', '-', 'Assistant', 'Professor', 'at', 'the', 'University', 'of', 'California,', 'Santa', 'Barbara']",
+  "labeled entities": "[(1, 1, 'PER'), (9, 13, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Ian', 'Mitchell', '2002-2003', '-', 'Assistant', 'Professor', 'at', 'the', 'University', 'of', 'British', 'Columbia']",
+  "labeled entities": "[(1, 2, 'PER'), (9, 12, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Jeong-Mo', 'Hong', '2005-2007', '-', 'Korea', 'University']",
+  "labeled entities": "[(2, 2, 'PER'), (5, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Robert', 'Strzodka', '2005-2007', '-', 'Independent', 'Junior', 'Research', 'Group', 'Leader', '(i.e.', 'Assistant', 'Professor)', 'at', 'the', 'Max', 'Planck', 'Institute']",
+  "labeled entities": "[(1, 1, 'PER'), (15, 17, 'ORG')]"
+ },
+ {
+  "sentence": "['G-number']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['A', '(G)raphics', \"researcher's\", 'G-number', 'is', 'calculated', 'as', 'the', 'number', 'of', 'papers/books/citations', 'on', '(G)oogle', 'Scholar', 'that', 'contain', 'more', 'than', '200', 'cites.', 'Note', 'that', 'the', 'best', 'way', 'to', 'search', 'Google', 'scholar', 'seems', 'to', 'be', 'by', 'using', 'the', 'first', 'initial', 'of', 'the', 'first', 'name,', 'e.g.', '\"', 'r', 'fedkiw', '\".', '(G)eez,', 'there', 'are', 'so', 'many', 'citation', 'indexes', 'out', 'there,', 'I', 'just', 'felt', 'like', 'we', 'needed', 'another', 'one.', 'Note', 'that', 'G', 'comes', 'before', 'H', '(as', 'in', 'h-humber),', 'and', 'that', 'G', 'also', 'stands', 'Graphics,', 'Google,', 'and', 'even', 'Goober.', 'This', 'is', 'only', 'a', 'partial', 'list', 'that', 'I', 'put', 'together', 'when', 'I', 'was', 'bored', 'one', 'day.', 'No', 'omissions', 'or', 'errors', 'are', 'intentional,', 'but', 'rather', 'an', 'indication', 'of', 'my', 'competence.', 'Please', 'feel', 'free', 'to', 'email', 'me', 'corrections,', 'additions...', 'or', 'even', 'a', 'complete', 'list.', 'Since', 'this', 'has', 'been', 'posted,', 'I', 'have', 'received', 'emails', 'about', 'a', 'few', 'people', 'who', 'collaborate', 'with', 'graphics', 'folks', '(applied', 'math,', 'computer', 'vision', 'and', 'robotics', 'researchers)', 'and', 'have', 'added', 'some', 'suggested', 'names', 'to', 'the', 'list', '-', 'just', 'for', 'fun...', 'NOTE:', 'I', 'will', 'periodically', 'update', 'the', 'names', 'on', 'this', 'list', 'to', 'the', 'best', 'of', 'my', 'ability,', 'but', 'finding', 'new', 'names', 'to', 'add', 'to', 'the', 'list', 'is', 'more', 'difficult', '-', 'emails', 'pertaining', 'to', 'this', 'are', 'greatly', 'appreciated!']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['#', 'Takeo', 'Kanade', '(27);']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['#', 'David', 'Donoho', '(20);', 'Stan', 'Osher', '(20);']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'PER')]"
+ },
+ {
+  "sentence": "['#', 'Pierre-Louis', 'Lions', '(18);', 'Benoit', 'Mandelbrot', '(18);', 'Sebastian', 'Thrun', '(18);']",
+  "labeled entities": "[(2, 2, 'PER'), (4, 5, 'PER'), (7, 8, 'PER')]"
+ },
+ {
+  "sentence": "['#', 'Olivier', 'Faugeras', '(17);', 'Richard', 'Szeliski', '(17);', 'Demetri', 'Terzopoulos', '(17);']",
+  "labeled entities": "[(1, 1, 'PER'), (4, 4, 'PER'), (7, 8, 'PER')]"
+ },
+ {
+  "sentence": "['#', 'Wim', 'Sweldens', '(16);']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Teaching']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Spring', 'quarter', '2008', '-', 'CS', '205B', '-', 'Mathematical', 'Methods', 'for', 'Fluids,', 'Solids', 'and', 'Interfaces']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Overview', 'of', 'numerical', 'methods', 'for', 'the', 'simulation', 'of', 'problems', 'involving', 'olid', 'mechanics', 'and', 'fluid', 'dynamics.', 'The', 'focus', 'is', 'on', 'practical', 'tools', 'needed', 'for', 'simulation,', 'as', 'well', 'as', 'the', 'necessary', 'continuous', 'mathematics', 'involving', 'nonlinear', 'hyperbolic', 'partial', 'differential', 'equations.', 'Possible', 'topics:', 'finite', 'element', 'method,', 'highly', 'deformable', 'elastic', 'bodies,', 'plasticity,', 'fracture,', 'level', 'set', 'method,', 'Burgers', \"'\", 'equation,', 'compressible', 'and', 'incompressible', 'Navier-Stokes', 'equations,', 'smoke,', 'water,', 'fire,', 'solid-fluid', 'coupling.', 'Prerequisites:', '205A', 'or', 'equivalents.', '3', 'units.']",
+  "labeled entities": "[(51, 51, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Fall', 'quarter', '2007', '-', 'CS', '205A', '-', 'Mathematical', 'Methods', 'for', 'Robotics,', 'Vision', 'and', 'Graphics']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Overview', 'of', 'some', 'of', 'the', 'continuous', 'mathematics', 'background', 'necessary', 'for', 'research', 'in', 'robotics,', 'vision,', 'and', 'graphics.', 'Possible', 'topics:', 'linear', 'algebra;', 'the', 'conjugate', 'gradient', 'method;', 'ordinary', 'and', 'partial', 'differential', 'equations;', 'vector', 'and', 'tensor', 'calculus;', 'calculus', 'of', 'variations.', 'Prerequisites:', '106B', 'or', '106X;', 'MATH', '51', 'and', '113;', 'or', 'equivalents.', '3', 'units.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Spring', 'quarter', '2007', '-', 'CS', '237C', '-', 'Numerical', 'Solution', 'of', 'Partial', 'Differential', 'Equations', 'II']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Hyperbolic', 'partial', 'differential', 'equations:', 'stability,', 'convergence', 'and', 'qualitative', 'properties.', 'Nonlinear', 'hyperbolic', 'equations', 'and', 'systems.', 'Combined', 'solution', 'methods', 'from', 'elliptic,', 'parabolic,', 'and', 'hyperbolic', 'problems.', 'Examples', 'include:', 'Burgers', 'equation,', 'Euler', 'equations', 'for', 'compressible', 'flow,', 'Navier', 'Stokes', 'equations', 'for', 'incompressible', 'flow.', 'Prerequisites:', '205', 'or', 'both', '237A', 'and', '237B;', 'MATH', '130,', '131;', 'or', 'equivalents.', '3', 'units.']",
+  "labeled entities": "[(25, 25, 'PER'), (27, 27, 'PER'), (33, 33, 'PER')]"
+ },
+ {
+  "sentence": "['Personal', 'Stuff']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Brittany', 'and', 'Briana', '...']",
+  "labeled entities": "[(1, 1, 'PER'), (3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Some', 'scuba', 'diving', 'photos...', 'octopus,', 'octopus2,', 'turtle']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'I', 'used', 'to', 'be', 'a', 'competitive', 'weightlifter', 'with', 'a', 'personal', 'best', 'squat', 'of', '800', 'pounds,', 'bench', 'press', 'of', '555', 'pounds', 'and', 'deadlift', 'of', '735', 'pounds,', 'all', 'in', 'the', '198', 'pound', 'weight', 'class...']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['squatting', '775', 'pounds,', 'incline', 'dumbell', 'press', 'with', '170', 'pound', 'dumbells,', 'deadlifting', '661', 'pounds,', 'front,', 'back,', 'side,', 'torso,', 'arms']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Rajeev', 'Motwani']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Professor', 'and', 'Director', 'of', 'Graduate', 'Studies']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Database', 'Group/InfoLab,', 'and', 'Foundations', 'Group']",
+  "labeled entities": "[(0, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Computer', 'Science', 'Department']",
+  "labeled entities": "[(0, 2, 'ORG')]"
+ },
+ {
+  "sentence": "['Stanford', 'University']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['Ph.D.', '1988', '(', 'Computer', 'Science', ',', 'U.C.', 'Berkeley', ')']",
+  "labeled entities": "[(7, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['B.Tech.', '1983', '([MISC', 'Computer', 'Science', ']', ',', 'IIT', 'Kanpur', ')']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Research', 'Interests:', 'Databases,', 'data', 'mining,', 'information', 'retrieval,', 'and', 'web', 'searching.', 'Privacy', 'and', 'security,', 'particularly', 'in', 'the', 'context', 'of', 'databases', 'and', 'information', 'retrieval.', 'Optimization', 'and', 'scheduling', 'problems,', 'particularly', 'for', 'applications', 'in', 'computer', 'systems,', 'compilers,', 'and', 'databases.', 'Computational', 'and', 'combinatorial', 'geometry', 'with', 'applications', 'to', 'robotics', 'and', 'vision.', 'Computational', 'biology', 'and', 'automated', 'drug', 'design.', 'Design', 'and', 'analysis', 'of', 'algorithms', 'with', 'emphasis', 'on', 'approximations,', 'online', 'computations,', 'and', 'randomized', 'algorithms,', 'as', 'well', 'as', 'related', 'complexity', 'theory.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Biographical', 'Information']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Table', 'of', 'Contents:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Research', 'Projects', '(', 'Algorithms', ',', 'DataMining/Internet/Web/Search', ',', 'Databases/Streams', ',', 'Privacy', ',', 'P2P', ',', 'Drug', 'Design', ',', 'Robotics', ').']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Graduate', 'Students', '(Current', 'and', '\"Graduated\").']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Publications']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Books', '&', 'Book', 'Chapters']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Recent', 'and', 'Forthcoming', 'Talks']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Teaching', 'and', 'Courses', '(Spring', '07-08:', 'CS', '154', '-', 'Automata', '&', 'Complexity', 'Theory', ')']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Selected', 'Awards', 'and', 'Honors']",
+  "labeled entities": "[(1, 4, 'MISC')]"
+ },
+ {
+  "sentence": "['*', 'Professional', 'Activities:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Journal', 'Editorial', 'Boards:', 'ACM', 'Transactions', 'on', 'Knowledge', 'Discovery', 'from', 'Data']",
+  "labeled entities": "[(1, 5, 'MISC')]"
+ },
+ {
+  "sentence": "['Journal', 'of', 'Computer', 'and', 'System', 'Sciences']",
+  "labeled entities": "[(0, 5, 'MISC')]"
+ },
+ {
+  "sentence": "['SIAM', 'Journal', 'on', 'Computing']",
+  "labeled entities": "[(0, 1, 'MISC')]"
+ },
+ {
+  "sentence": "['IEEE', 'Transactions', 'on', 'Knowledge', 'and', 'Data', 'Engineering', '(2002-2007)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Current', 'Program', 'Committees:', 'SODA', '2009', ',', 'WINE', '2008', ',', 'SIAM', 'Annual', 'Meeting', '2008', ',', 'WSDM', '2008', ',', 'KDD', '2008', ',', 'SIGMOD', '2007', ',', 'ICDE', '2007', ',']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Past', 'Conference', 'Program', 'Committees']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Vice-Chair,', 'Executive', 'Committee,', 'ACM', 'SIGACT', '(2001-2005)', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Want', 'to', 'contact', 'me', 'or', 'my', 'admin?']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Other', 'Links.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Recent', 'survey', 'talks', 'on', 'Data', 'Streams:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Randomization', 'for', 'Massive', 'and', 'Streaming', 'Data', 'Sets']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Stanford', 'Computer', 'Science', 'Forum', '-', 'Annual', 'Affiliates', 'Meeting', ',', 'Stanford', ',', 'May', '2003.']",
+  "labeled entities": "[(0, 0, 'PER'), (9, 9, 'PER')]"
+ },
+ {
+  "sentence": "['Here', 'are', 'the', 'slides', 'from', 'this', 'talk.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Models', 'and', 'Issues', 'in', 'Data', 'Stream', 'Systems']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['PODS', 'Plenary', 'Talk', 'at', 'the', 'ACM', 'SIGMOD/PODS', '2002', 'Conference,', 'June', '2002.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Here', 'are', 'the', 'slides', 'from', 'this', 'talk.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['If', 'I', 'had', 'more', 'time', '(say', '3', 'hours', ':)),', 'here', 'are', 'the', 'slides', 'I', 'would', 'have', 'used.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Introduction', 'to', 'Automata', 'Theory,']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Languages,', 'and', 'Computation']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(with', 'Hopcroft', 'and', 'Ullman', ')']",
+  "labeled entities": "[(1, 1, 'PER'), (3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['Addison-Wesley', ',', '2000.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Jeff', 'Ullman', 'maintains', 'the', 'book', 'web', 'page.']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Randomized', 'Algorithms']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['(with', 'Raghavan', ')']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Cambridge', 'University', 'Press', ',', '1995.']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Rajeev', 'Motwani']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Department', 'of', 'Computer', 'Science']",
+  "labeled entities": "[(0, 3, 'ORG')]"
+ },
+ {
+  "sentence": "['Room', '474']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Gates', 'Computer', 'Science', 'Building', '4B']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Stanford', 'University']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['Stanford,', 'CA', '94305-9045']",
+  "labeled entities": "[(0, 2, 'LOC')]"
+ },
+ {
+  "sentence": "['Phones:', '650-723-6045', '(office)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['650-725-4671', '(fax)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['\"first', 'name\"', 'AT', 'cs.stanford.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Admin:', 'Lynda', 'Harris']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Department', 'of', 'Computer', 'Science']",
+  "labeled entities": "[(0, 3, 'ORG')]"
+ },
+ {
+  "sentence": "['Room', '495']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Gates', 'Computer', 'Science', 'Building', '4B']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Stanford', 'University']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['Stanford,', 'CA', '94305-9045']",
+  "labeled entities": "[(0, 2, 'LOC')]"
+ },
+ {
+  "sentence": "['Phones:', '650-723-4377', '(office)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['650-725-4671', '(fax)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['\"first', 'name\"@cs.stanford.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Directions', 'to', 'Gates', 'Building']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['-----']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Graeme', 'Bailey']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Professor']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['bailey@cs.cornell.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Ph.D.', 'University', 'of', 'Birmingham', 'U.K.', ',', '1977']",
+  "labeled entities": "[(3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['Originally', 'working', 'in', 'low-dimensional', 'topology', 'and', 'combinatorial', 'group', 'theory,', 'through', 'an', 'odd', 'mixture', 'of', 'circumstances', 'I', 'have', 'become', 'actively', 'involved', 'in', 'research', 'in', 'mathematics', 'and', 'medicine.', 'One', 'of', 'two', 'ongoing', 'research', 'projects', 'in', 'this', 'area', 'is', 'the', 'modeling', 'of', 'lung', 'inflation,', 'together', 'with', 'a', 'research', 'group', 'at', 'the', 'Class', 'One', 'Trauma', 'Center', 'at', 'Upstate', 'Medical', 'Univ.', ',', 'Syracuse', ',', 'NY', '.', 'This', 'is', 'in', 'the', 'early', 'stages', 'of', 'a', 'program', 'to', 'extend', 'to', 'various', 'pathologies', 'affecting', 'elasticity', 'and', 'aimed', 'towards', 'effective', 'clinical', 'treatments.', 'The', 'group,', 'now', 'having', 'made', 'some', 'significant', 'advances', 'in', 'answering', 'questions', 'that', 'had', 'remained', 'unsolved', 'for', 'over', '30', 'years,', 'is', 'now', 'in', 'the', 'process', 'of', 'trying', 'to', 'obtain', 'reliable', 'mathematical', 'models.', 'This', 'involves', 'building', 'computer', 'simulations', 'of', 'dynamic', 'packing', 'results', 'under', 'constrained', 'perturbations', 'and', 'deformations.', 'The', 'other', 'project', 'is', 'in', 'understanding', 'deformations', 'of', 'trans', 'membrane', 'proteins', 'used', 'in', 'cell-signaling', 'processes.', 'This', 'is', 'a', 'carefully', 'constrained', 'version', 'of', 'the', 'protein-folding', 'problems', 'that', 'have', 'been', 'exciting', 'the', 'mathematical', 'biology', 'community', 'in', 'recent', 'years;', 'the', 'application', 'of', 'a', 'topological', 'viewpoint', 'in', 'collaborating', 'with', 'molecular', 'pharmacologists', 'and', 'structural', 'biologists', 'has', 'already', 'yielded', 'some', 'intriguing', 'insights.']",
+  "labeled entities": "[(57, 57, 'LOC')]"
+ },
+ {
+  "sentence": "['Honors/Awards']",
+  "labeled entities": "[(0, 0, 'MISC')]"
+ },
+ {
+  "sentence": "['Kenneth', 'A.', 'Goldman', \"'71\", 'Excellence', 'in', 'Teaching', 'Award', ',', '2000.']",
+  "labeled entities": "[(0, 0, 'PER'), (2, 2, 'PER'), (6, 7, 'MISC')]"
+ },
+ {
+  "sentence": "['University', 'Activities']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Adjunct', 'Professor;', 'Mathematics.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Member,', 'Fellowship', 'Selection', 'Committees:', 'Rhodes', ',', 'Marshall', ',', 'Churchill', ',', 'and', 'Fulbright', '.']",
+  "labeled entities": "[(0, 4, 'MISC'), (8, 8, 'PER'), (11, 11, 'PER')]"
+ },
+ {
+  "sentence": "['Member,', 'WCHI-Development', 'and', 'Transition', 'Committee', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Member,', 'Donlon', 'Fellows', 'Development', '.']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['Member,', 'Master', 'of', 'Engineering', 'Committee', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Member,', 'Cornell', 'EMS', '.']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Faculty', 'Advisor,', 'Judo', 'Club', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Gerard', 'J.', 'Holzmann']",
+  "labeled entities": "[(0, 0, 'PER'), (2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['gholzmann', '(insert', 'atsign', 'here', ')', 'acm.org']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['NASA/JPL', 'Laboratory', 'for', 'Reliable', 'Software', ',']",
+  "labeled entities": "[(0, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['and', 'Caltech', 'CS', ',', 'Pasadena,', 'CA', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['interested', 'in:', 'software', 'reliability,', 'software', 'analysis', 'methods,', 'formal', 'verification,', 'metrics,', 'logic', 'model', 'checking,', 'distributed', 'systems', 'design,', 'analysis', 'of', 'multi-threaded', 'software,', 'testing,', 'requirements', 'capture', 'and', 'analysis,', 'algorithms,', 'user', 'interface', 'design,', 'graphic', 'design,', 'text', 'processing,', 'image', 'processing,', 'history', 'of', 'technology,', 'technology', 'transfer.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['before', 'joining', 'jpl', 'i', 'worked', 'in', 'the', 'cs', 'research', 'group', 'at', 'bell', 'labs', '(1980-1981', 'and', '1983-2003)', 'a', 'truly', 'remarkable', 'group', 'that', 'was', 'given', 'virtually', 'complete', 'freedom', 'to', 'pursue', 'research', 'goals,', 'with', 'no', 'perceptible', 'management', 'oversight.', 'i', 'made', 'a', 'map', 'of', 'the', '5th', 'floor', 'at', 'stair', '9', 'in', 'building', '2,', 'the', 'most', 'desirable', 'location', 'for', \"one's\", 'office', 'at', 'the', 'time.', 'the', 'map', 'lists', 'the', 'main', 'occupants', 'for', 'each', 'office', 'over', 'the', 'years,', 'with', 'the', 'person', 'that', 'occupied', 'it', 'the', 'longest', 'in', 'red.', 'from', 'the', '30-some', 'people', 'shown', 'on', 'this', 'map,', 'just', 'a', 'few', 'remained', 'to', 'witness', 'the', 'final', 'disappearance', 'of', 'center', '1127', 'from', 'the', 'bell', 'labs', 'org', 'charts', 'in', 'august', '2005:', 'rae', 'mclellan', ',', 'howard', 'trickey', '(since', 'moved', 'to', 'google', ')', 'and', 'dennis', 'ritchie', '.', 'one', 'by', 'one,', 'the', 'others', 'all', 'found', 'a', 'safe', 'haven', 'elsewhere.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['remarkably,', '8', 'of', 'the', '30', 'people', 'whose', 'name', 'is', 'shown', 'on', 'this', 'map', '(and', 'about', '18', 'former', 'members', 'of', 'center', '1127', 'alltogether)', 'now', 'work', 'at', 'google', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Software']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Spin', 'an', 'efficient', 'verification', 'system', 'for', 'distributed', 'software', 'systems', '(a', 'logic', 'model', 'checker).']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Feaver', 'a', 'model', 'extraction', 'system', 'for', 'ANSI-C', 'source', 'code:', 'the', 'first', 'step', 'towards', 'the', 'development', 'of', 'a', 'general', 'purpose', 'tool', 'for', 'the', 'verification', 'of', 'distributed', 'systems', 'applications', 'directly', 'from', 'program', 'source', 'text.', 'the', 'system', 'was', 'used', 'at', 'Bell', 'Labs', 'between', '1998', 'and', '2000', 'to', 'exhaustively', 'verify', 'the', 'call-processing', 'software', 'of', \"Lucent's\", 'PathStar', 'access', 'server.', 'The', 'source', 'code', 'is', 'available,', 'see', 'the', 'Modex', 'distribution', 'page.']",
+  "labeled entities": "[(1, 1, 'PER'), (39, 39, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Uno', 'A', 'simple', 'static', 'analysis', 'tool', 'for', 'ANSI', 'C', 'programs,', 'based', 'on', 'Ctree', '0.14.']",
+  "labeled entities": "[(1, 1, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Ubet', 'a', 'requirements', 'capture', 'and', 'analysis', 'toolset', 'from', 'around', '1995,', 'originally', 'called', 'msc/poga', ',', 'later', 'productized', 'and', 'distributed', 'within', 'Lucent', 'as', 'the', 'uBET', 'tool.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Sdlvalid', ',', 'an', 'early', 'verifier', 'for', 'SDL.', 'the', 'tool', 'was', 'written', 'in', '1987/1988,', 'and', 'was', 'used', 'internally', 'for', 'about', 'five', 'years.', 'it', 'was', 'never', 'approved', 'for', 'public', 'release.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'microtrace', 'a', 'demo', 'awk-script', 'for', 'FSM', 'verification', '(written', '1987).']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Pico/Popi', 'digital', 'darkroom', 'software', '(written', '1984).', 'For', 'the', 'curious,', 'here', 'is', 'also', 'a', 'tar', 'archive', 'pico.tar', 'with', 'the', 'pre-ansi', 'c', 'source', 'code', 'that', 'includes', 'the', 'little', 'on-the-fly', 'compiler', 'that', 'Ken', 'Thompson', 'and', 'Rob', 'Pike', 'wrote.', 'The', 'compiler', 'in', 'gen.c', '(also', 'written', 'in', '1984)', 'generated', 'machine', 'code', 'for', 'a', 'VAX.', 'Of', 'course,', 'this', 'code', 'will', 'not', 'compile', 'or', 'run', 'on', 'any', 'modern', 'machine.', 'See', 'also', \"Pico's\", 'website.']",
+  "labeled entities": "[(30, 31, 'PER'), (33, 34, 'PER')]"
+ },
+ {
+  "sentence": "['Books']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'The', 'Spin', 'Model', 'Checker', '-', 'Primer', 'and', 'Reference', 'Manual', '.', 'The', 'new', 'book,', 'describing', 'the', 'most', 'recent', 'version', 'of', 'Spin', ',', '608', 'pgs.', 'Addison-Wesley', 'Publ.,', 'ISBN', '0-321-22862-6,', 'available', 'September', '2003.']",
+  "labeled entities": "[(6, 6, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Design', 'and', 'Validation', 'of', 'Computer', 'Protocols', ',', 'Prentice', 'Hall', ',', '1991.', 'The', 'first', 'Spin', 'book.', 'Spin', 'was', 'written', 'for', 'this', 'book', 'in', '1989.']",
+  "labeled entities": "[(8, 8, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'The', 'Early', 'History', 'of', 'Data', 'Networks', ',', 'IEEE', 'Computer', 'Society', 'Press', ',', '1995.', '(inspired', 'by', 'the', 'first', 'chapter', 'in', 'the', 'Design', 'and', 'Validation', 'book.)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Beyond', 'Photography', '--', 'The', 'Digital', 'Darkroom', ',', 'Prentice', 'Hall', ',', '1988.', 'The', 'first', 'book', 'to', 'coin', 'the', 'term', 'digital', 'darkroom;', 'it', 'predicted', 'that', 'the', 'days', 'of', 'conventional', 'photograph', 'would', 'be', 'numbered.', 'The', 'book,', 'and', 'lots', 'of', 'background', 'information,', 'is', 'today', 'accessible', 'online', 'via', 'the', 'link', 'above.']",
+  "labeled entities": "[(8, 8, 'PER')]"
+ },
+ {
+  "sentence": "['Papers', 'etc.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'publications,', 'with', 'PDF', 'for', 'most', 'papers', '(new)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'abstracts', 'for', 'selected', 'papers']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Little', 'Movies']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'pixelface', ',', '1988,', 'a', 'five', 'minute', 'demo', 'of', 'Pico/Popi', '(Mpeg', '40Mb).']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['A', 'portion', 'of', 'the', 'video', 'was', 'shown', 'on', 'CNN', 'Science', '&', 'Technology', 'report', 'in', '1989:', 'see', 'clip.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'walkman', ',', '1984,', 'a', '40', 'second', 'try', 'to', 'make', 'a', 'little', 'movie,', 'with', 'Rob', 'Pike', ',', 'Don', 'Mitchell', ',', 'and', 'Lillian', 'Schwartz', '(Mpeg', '7', 'Mb).']",
+  "labeled entities": "[(14, 15, 'PER'), (18, 18, 'PER'), (21, 22, 'PER')]"
+ },
+ {
+  "sentence": "['A', 'frame', 'from', 'the', 'movie', 'was', 'used', 'for', 'the', 'cover', 'of', 'IEEE', 'Spectrum', ',', 'June', '1984.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Covers,', 'Logos', 'etc.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'The', 'first', 'Inferno', 'logo,', '1996.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'CS', 'Research', 'Center', 'logo,', '1997.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Spin', 'logo', ',', '2000.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'NASA/JPL', 'Lars', 'logo,', '2004.']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'CD,', 'floppies,', 'and', 'manual', 'covers,', 'Plan-9,', '2nd', 'Edition,']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Pub.', 'Harcourt', 'Brace', '&', 'Company', ',', 'Orlando,', 'Fl.', ',', '1995.']",
+  "labeled entities": "[(1, 2, 'PER')]"
+ },
+ {
+  "sentence": "['(Illustrations', 'from', 'Louis', 'Figuier', ',', 'Les', 'Merveilles', 'de', 'la', 'Science', ',', 'Paris', '1867.)']",
+  "labeled entities": "[(2, 2, 'PER'), (5, 5, 'PER'), (11, 11, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'CD,', 'Plan-9', 'from', 'Bell', 'Labs', ',', '1st', 'Edition,', '1992.']",
+  "labeled entities": "[(5, 5, 'PER')]"
+ },
+ {
+  "sentence": "['(Three', 'actors', 'from', 'Plan-9,', 'the', 'movie', 'by', 'Ed', 'Wood', '.)']",
+  "labeled entities": "[(7, 7, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'CD,', 'Chess', 'Endgames', ',', 'Vols', '1-4,', '(issued', 'by', 'Ken', 'Thompson', ',', '1991)']",
+  "labeled entities": "[(2, 2, 'PER'), (9, 10, 'PER')]"
+ },
+ {
+  "sentence": "['(Chess-piece', 'and', 'a', 'small', 'part', 'of', 'Leonardo', 'da', 'Vinci', \"'s\", 'Creation.)']",
+  "labeled entities": "[(6, 6, 'PER'), (8, 8, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'AT&T', 'Technical', 'Journal', ',', 'March/April', '1987,', 'Vol', '66,', 'Issue', '2.']",
+  "labeled entities": "[(1, 3, 'MISC')]"
+ },
+ {
+  "sentence": "['(Cover', 'with', 'a', 'transformed', 'Pico/Popi', 'Image', 'of', 'Peter', 'Weinberger', \"'s\", 'portrait.)']",
+  "labeled entities": "[(7, 8, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'AT&T', 'Bell', 'Laboratories', 'Technical', 'Journal', ',', 'October', '1984,', 'Vol', '63,', 'No.', '8,', 'Part', '2.', 'Special', 'Issue', 'on', 'Unix', '(cover', 'with', 'computer', 'generated', 'graphics.)']",
+  "labeled entities": "[(1, 5, 'MISC')]"
+ },
+ {
+  "sentence": "['Photos']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Portraits,', 'a', 'small', 'selection', 'of', 'the', 'portraits', \"I've\", 'taken', 'in', 'the', 'last', '25', 'years', 'or', 'so,', 'mostly', 'with', 'a', 'large', 'studio', 'view', 'camera.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Masks', 'and', 'Statues', 'from', 'the', 'collection', 'of', 'Norbert', 'Elias', ',', 'taken', 'between', '1983', 'and', '1987', 'in', 'Amsterdam']",
+  "labeled entities": "[(8, 9, 'PER'), (17, 17, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Pictures', 'of', 'Tessa', ',', 'the', 'start', 'of', 'a', 'well-documented', 'life...']",
+  "labeled entities": "[(3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['Press']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Story', 'in', 'IEEE', 'Computer', ',', 'Jan.', '2004']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Interview', 'with', 'FTP', 'online', ',', 'Oct.', '2003']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Interview', 'with', 'objectmonkey.com', ',', 'Oct.', '2003']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'MIT', 'Technology', 'Review', ',', 'February', '2003,', 'brief', 'mention', 'in', 'the', 'category', 'of', 'Software', 'Assurance', ',', 'in', 'article', 'on', '\"10', 'Emerging', 'Technologies', 'That', 'Will', 'Change', 'the', 'World.\"']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Interview', 'with', 'Software', 'Development', 'Magazine', '(SD', 'Magazine)', ',', 'on', 'software', 'verification,', 'September', '2002,', 'p.15.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'NJN', 'New', 'Jersey', 'Network', 'News', ',', 'an', 'interview', 'on', 'software', 'quality', 'aired', 'in', 'the', 'science', 'and', 'technology', 'segment', 'on', 'March', '6,', '2002.']",
+  "labeled entities": "[(3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'Two', 'Dutch', 'journals,', 'Technisch', 'Weekblad', ',', 'No.', '17,', 'and', 'Embedded', 'Systems', ',', 'published', 'interviews', '(in', 'Dutch).']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Infoworld', ',', 'October', '26,', '2001', 'Short', 'feature', 'on', 'code', 'debugging.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'CIO', 'magazine', ',', 'August', '1,', '2001.', 'Brief', 'mention', 'of', 'software', 'verification', 'project.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'New', 'Scientist', ',', '18', 'November,', '2000']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Future', 'of', 'Software', 'Column', 'published', 'in', 'FTP', 'magazine', 'in', '2000,', 'Fawcette', 'Publ', '.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'A', 'series', 'of', 'columns', 'on', 'Smart', 'Machines', ',', 'published', 'in', 'Inc.', 'Technology']",
+  "labeled entities": "[(11, 12, 'ORG')]"
+ },
+ {
+  "sentence": "['Other']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'JPL', 'Fellow', ',', 'May', '2007.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Caltech', 'CS,', 'Faculty', 'Associate,', 'May', '2007.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Honorary', 'doctorate,', 'Twente', 'University', ',', 'The', 'Netherlands', ',', 'December', '2006.']",
+  "labeled entities": "[(3, 3, 'PER'), (6, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['*', 'ACM', 'Kanellakis', 'Theory', 'and', 'Practice', 'Award', ',', 'May', '2006', '(with', 'Vardi', ',', 'Wolper', ',', 'and', 'Kurshan', ').', '(press', 'release', 'March', '2006)']",
+  "labeled entities": "[(1, 6, 'MISC'), (11, 11, 'PER'), (13, 13, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'US', 'National', 'Academy', 'of', 'Engineering', ',', 'elected', 'member', '2005.']",
+  "labeled entities": "[(1, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Thomas', 'Alva', 'Edison', 'Patent', 'Award', ',', '2003,', 'in', 'the', 'Information', 'Technology', 'Category', ',', 'for', 'a', 'patent', 'on', 'software', 'verification', 'with', 'FeaVer', 'and', 'Spin', '(with', 'Ken', 'Thompson', 'and', 'Phil', 'Winterbottom', '),', 'July', '2003.']",
+  "labeled entities": "[(1, 5, 'MISC'), (25, 26, 'PER'), (28, 29, 'PER')]"
+ },
+ {
+  "sentence": "['*', 'ACM', 'SigSoft', 'Outstanding', 'Research', 'award', ',', '2002']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'ACM', 'System', 'Software', 'Award']",
+  "labeled entities": "[(1, 4, 'MISC')]"
+ },
+ {
+  "sentence": "['Erik', 'Winfree']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Associate', 'Professor', 'of', 'Computer', 'Science', ',', 'Computation', 'and', 'Neural', 'Systems', ',', 'and', 'Bioengineering']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['B.S.,', 'University', 'of', 'Chicago', ',', '1991;', 'Ph.D.,', 'Caltech', ',', '1998']",
+  "labeled entities": "[(1, 3, 'ORG'), (7, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['California', 'Institute', 'of', 'Technology']",
+  "labeled entities": "[(0, 3, 'ORG')]"
+ },
+ {
+  "sentence": "['Computer', 'Science']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['1200', 'E.', 'California', 'Boulevard']",
+  "labeled entities": "[(1, 3, 'PER')]"
+ },
+ {
+  "sentence": "['MC', '136-93']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Pasadena,', 'CA', '91125']",
+  "labeled entities": "[(0, 2, 'LOC')]"
+ },
+ {
+  "sentence": "['Office', 'Location:', '204', 'Moore']",
+  "labeled entities": "[(3, 3, 'PER')]"
+ },
+ {
+  "sentence": "['Phone:', '(626)', '395-6246']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['email', '|', 'personal', 'page']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Research']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Biomolecular', 'computation,', 'DNA', 'based', 'computation,', 'algorithmic', 'self-assembly,', 'in', 'vitro', 'biochemical', 'circuits,', 'noise', 'and', 'fault-tolerance,', 'DNA', 'and', 'RNA', 'folding,', 'evolution.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Mary', 'A.', 'Overby']",
+  "labeled entities": "[(0, 0, 'PER'), (2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['mao@ibiblio.org']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'work', 'as', 'computer', 'consultant', 'in', 'Chapel', 'Hill', ',', 'North', 'Carolina', '.', 'Previously,', 'I', 'worked', 'for', 'webslingerZ,', 'Inc.', 'and', 'the', 'University', 'of', 'North', 'Carolina', 'at', 'Chapel', 'Hill', 'doing', 'project', 'management,', 'database', 'development', 'and', 'computer', 'programming.', \"I've\", 'been', 'publishing', 'and', 'developing', 'database', 'applications', 'on', 'the', 'web', 'since', 'February', '1994.']",
+  "labeled entities": "[(6, 6, 'PER'), (9, 10, 'LOC'), (17, 17, 'ORG'), (20, 26, 'ORG')]"
+ },
+ {
+  "sentence": "['I', 'play', 'drums', 'for', 'fun,', 'mostly', 'Afro-Cuban', 'and', 'West', 'African', 'rhythms.', 'I', 'have', 'studied', 'with', 'Beverly', 'Botsford', ',', 'Khalid', 'Saleem', ',', 'Bradley', 'Simmons', 'and', 'Mamady', 'Keita', '.', 'I', 'traveled', 'to', 'Cuba', 'to', 'study', 'rumba', 'with', 'Los', 'Munequitos', 'de', 'Matanzas', 'in', '1994', 'and', 'with', 'AfroCuba', 'de', 'Matanzas', 'in', '2001.', 'In', '2004,', 'I', 'spent', 'a', 'month', 'in', 'Salvador', ',', 'Bahia', ',', 'Brazil', 'volunteering', 'with', 'Cross', 'Cultural', 'Solutions', 'and', 'studying', 'Brazilian', 'music.', 'I', 'play', 'the', 'tamborim', 'in', 'the', 'Carolina', 'Samba', 'School', 'directed', 'by', 'Brazilian', 'Eduardo', 'DeSouza', '.']",
+  "labeled entities": "[(15, 16, 'PER'), (18, 19, 'PER'), (21, 22, 'PER'), (25, 25, 'PER'), (30, 30, 'LOC'), (35, 35, 'PER'), (55, 55, 'PER'), (57, 57, 'PER'), (59, 59, 'LOC'), (75, 77, 'ORG'), (81, 81, 'PER')]"
+ },
+ {
+  "sentence": "['Á', 'Cuba', '!']",
+  "labeled entities": "[(1, 1, 'LOC')]"
+ },
+ {
+  "sentence": "['was', 'one', 'of', 'the', 'first', 'websites', 'about', 'Cuba', ',', 'featuring', 'Cuban', 'musicians;', 'pictures', 'of', 'Cuban', 'people', 'and', 'places;', 'and', 'links', 'to', 'other', 'information', 'about', 'Cuba', '.']",
+  "labeled entities": "[(7, 7, 'LOC'), (24, 24, 'LOC')]"
+ },
+ {
+  "sentence": "['Moinelo', \"'s\", 'Gallery']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['and', 'Vertical', 'Gallery', 'contain', 'photos', 'from', 'the', 'studio', 'of', 'artist', 'Manuel', 'Moinelo', 'Pineiro', 'in', 'Matanzas', ',', 'Cuba', ',', 'taken', 'by', 'Mary', 'Overby', 'in', '2001', 'on', 'a', 'trip', 'with', 'percussionist', 'Carol', 'Steele', 'and', 'Steelina', 'Productions', '.']",
+  "labeled entities": "[(10, 10, 'PER'), (12, 12, 'PER'), (16, 16, 'LOC'), (20, 21, 'PER'), (29, 30, 'PER')]"
+ },
+ {
+  "sentence": "['Cuban', 'Rumba', 'Music']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['includes', 'the', 'Cuban', \"Musician's\", 'Photo', 'Gallery', 'with', 'photos', 'from', 'Cuba', 'taken', 'in', '2001;', 'links', 'to', 'related', 'pages', 'about', 'cuban', 'musicians;', 'and', 'other', 'collections', 'of', 'photos', 'from', 'Cuba', 'by', 'the', 'author.']",
+  "labeled entities": "[(9, 9, 'LOC'), (26, 26, 'LOC')]"
+ },
+ {
+  "sentence": "['Rumba', 'y', 'Folkl\\x97rico', 'en', 'Matanzas']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['a', 'collection', 'of', 'photographs', 'from', 'my', 'trip', 'to', 'Cuba', 'with', 'Carribean', 'Music', 'and', 'Dance', 'in', 'December', '1994.']",
+  "labeled entities": "[(8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['Established:', 'February', '1994', 'Modified:', 'June', '13,', '2004']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Peter', \"'s\", 'Homepage']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['The', 'place', 'to', 'be', 'if', 'you', 'like', 'Parrots,', 'Old', 'Cameras,', 'Motorbikes,', 'Diving,', 'Travels', 'and', 'other', 'stuff']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['2/01/04']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Please', 'wait', 'patiently', 'while', 'the', 'graphics', 'animations', 'and', 'Music', 'load', '-', \"it's\", 'worth', 'it']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['This', 'site', 'is', 'optimised', 'for', 'Frames', 'with', 'Internet', 'Explorer', '5', 'with', '1152x864', 'graphics', 'if', 'you', 'only', 'have', '800x600', 'click', 'here', 'for', 'the', 'no', 'frames', 'version']",
+  "labeled entities": "[(5, 5, 'PER')]"
+ },
+ {
+  "sentence": "['You', 'may', 'get', 'a', 'Coolfreepages', 'banner', 'screen', 'popping', 'up', 'at', 'some', 'point', '-', 'if', 'so', 'remove', 'it', 'by', 'clicking', 'the', 'X', 'box', 'at', 'the', 'top', 'right', 'of', 'the', 'window', 'and', 'you', 'will', 'be', 'back', 'to', 'Peter', \"'s\", 'Homepage.', 'Other', 'errors', 'are', 'probably', 'because', 'your', 'browser', 'is', 'out', 'of', 'date', '-', 'so', 'why', \"don't\", 'you', 'download', 'the', 'latest', 'Explorer', 'or', 'Navigator', 'versions', 'from', 'the', 'Microsoft', 'or', 'Netscape', 'websites?', '-', \"they're\", 'free!']",
+  "labeled entities": "[(35, 35, 'PER')]"
+ },
+ {
+  "sentence": "[\"What's\", 'New?', ':', 'Well', \"there's\", 'a', 'whole', 'new', 'layout', 'and', 'some', 'more', 'music,', 'a', 'history', 'of', 'my', 'motorcycles', 'In', 'search', 'of', 'Don', 'Quixote', 'in', 'Spain', ',', 'photos', 'from', 'Florence', ',', 'Rock-n-Roll', 'Archeology', 'in', 'Manassas', '.', 'Three', 'diving', 'travel', 'features', 'on', 'the', 'Sudan', ',', 'the', 'Saintes', 'and', 'Mauritius', '.', 'More', 'pics', 'of', 'the', 'Darmah', 'and', 'VFR,', 'and', 'CBR1000', 'for', 'those', 'of', 'you', 'who', 'like', 'Bikes.', 'Photos', 'of', 'the', 'radio', 'controlled', 'duck', 'taken', 'with', 'Six-20', 'Junior,', 'A', 'new', 'page', 'on', 'Accessories', 'in', 'the', 'Camera', 'collection.', 'There', 'are', 'Photos', 'with', 'Kodaks', 'from', '1897', 'and', '1908', 'plus', 'some', 'music,', 'animation', 'and', 'The', 'Gurls', 'guide', 'to', 'using', '120', 'film', 'in', 'a', '620', 'camera.', 'Also', 'check', 'out', 'The', 'original', 'Radio', 'Controlled', 'Duck', ',', 'a', 'special', 'guest', 'appearance', 'from', 'Harry', 'Fiske', \"'s\", 'Mk.2', 'Duck', 'and', 'Peter', \"'s\", 'latest', 'Mk.', '2', 'RC', 'Duck']",
+  "labeled entities": "[(24, 24, 'LOC'), (28, 28, 'PER'), (41, 41, 'LOC'), (46, 46, 'LOC'), (122, 123, 'PER'), (128, 128, 'PER')]"
+ }
+]

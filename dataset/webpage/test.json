@@ -1,0 +1,542 @@
+[
+ {
+  "sentence": "['Welcome']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Welcome', 'to', 'the', 'webpage', 'for', 'North', 'American', 'Chapter', 'of', 'the', 'Association', 'for', 'Computational', 'Linguistics', '-', 'Human', 'Language', 'Technologies', '(NAACL', 'HLT)', '2009', 'conference.']",
+  "labeled entities": "[(5, 13, 'ORG'), (15, 19, 'ORG')]"
+ },
+ {
+  "sentence": "['Announcements']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['The', 'submission', 'deadline', 'for', 'full', 'papers', 'is', '11.59pm,', 'PST,', 'December', '1st', '2008.', 'Papers', 'should', 'be', 'submitted', 'at', 'https://www.softconf.com/naacl-hlt09/papers']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Events']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Tutorials,', 'May', '31']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Main', 'Conference,', 'June', '1-3']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Workshops,', 'June', '4-5']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Conference', 'Committee']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['General', 'Conference', 'Chair']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Mari', 'Ostendorf', ',', 'University', 'of', 'Washington']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['Program', 'Committee', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Michael', 'Collins', ',', 'Massachusetts', 'Institute', 'of', 'Technology', '(NLP)']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Lucy', 'Vanderwende', ',', 'Microsoft', '(NLP)']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Doug', 'Oard', ',', 'University', 'of', 'Maryland', '(IR)']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Shri', 'Narayanan', ',', 'University', 'of', 'Southern', 'California', '(Speech)']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Local', 'Arrangement', 'Co-Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'James', 'Martin', ',', 'University', 'of', 'Colorado', 'at', 'Boulder']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 8, 'ORG')]"
+ },
+ {
+  "sentence": "['*', '[', 'Martha', 'Palmer', ']', ',', 'University', 'of', 'Colorado', 'at', 'Boulder']",
+  "labeled entities": "[(6, 10, 'ORG')]"
+ },
+ {
+  "sentence": "['Publicitiy', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Matthew', 'Stone', '(', 'Rutgers', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Gokhan', 'Tur', '(', 'SRI', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Diana', 'Inkpen', '(', 'U', 'Ottawa', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Publications', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Christy', 'Doran', '(', 'MITRE', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Eric', 'Ringger', '(', 'BYU', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Tutorials', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Ciprian', 'Chelba', '(', 'Google', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Paul', 'Kantor', '(', 'Rutgers', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Brian', 'Roark', '(', 'OHSU', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Workshops', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Mark', 'Hasegawa-Johnson', '(', 'UIUC', '),']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Nizar', 'Habash', '(', 'Columbia', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Student', 'research', 'conference', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Anoop', 'Sarkar', '(', 'Simon', 'Fraser', 'U', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Carolyn', 'Rose', '(', 'CMU', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Student', 'Doctoral', 'Consortium', 'Co-Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Svetlana', 'Stenchikova', '(', 'Stony', 'Brook', 'University', ')', '-', 'Speech']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Ulrich', 'Germann', '(', 'University', 'of', 'Toronto', ')', '-', 'NLP']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Chirag', 'Shah', '(', 'University', 'of', 'North', 'Carolina', ')', '-', 'Information', 'Retrieval']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Demo', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Fred', 'Popowich', '(', 'U', 'Alberta', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Michael', 'Johnston', '(', 'AT&T', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Sponsorship', 'Chairs']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Nicolas', 'Nicolov', '(', 'JD', 'Powers', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Hitoshi', 'Isahara', '(', 'NICT', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Philipp', 'Koehn', '(', 'U', 'Edinburgh', ')']",
+  "labeled entities": "[(1, 2, 'PER'), (4, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['*', 'Josef', 'van', 'Genabith', '(', 'Dublin', 'City', 'U', ')']",
+  "labeled entities": "[(1, 3, 'PER'), (5, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Venue']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Conference']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['The', 'conference', 'will', 'be', 'held', 'at', 'the', 'University', 'of', 'Colorado', 'at', 'Boulder']",
+  "labeled entities": "[(7, 11, 'ORG')]"
+ },
+ {
+  "sentence": "['Accomodations']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Millennium', 'Harvest', 'House']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Reserve', 'prior', 'to', 'May', '2nd']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Rate:', 'TBD']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['1-800-545-6285']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['http://millenniumhotels.com/millenniumboulder/']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Reservation', 'Links']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Government', 'Block']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['*', 'Non-Government', 'Block']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Contact', 'Us']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['For', 'additional', 'information', 'contact', 'us', 'at', 'naaclhlt2009@gmail.com.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['For', 'questions', 'related', 'to', 'paper', 'submissions,', 'contact:', 'naacl-hlt09@csail.mit.edu']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Welcome', 'to', 'ACL-08:', 'HLT', '!']",
+  "labeled entities": "[(2, 3, 'ORG')]"
+ },
+ {
+  "sentence": "['ACL-08:', 'HLT', 'takes', 'place', 'at', 'the', 'Hyatt', 'Regency', 'Hotel', 'in', 'downtown', 'Columbus,', 'Ohio', '.', 'It', 'combines', 'the', 'Annual', 'Meeting', 'of', 'the', 'Association', 'for', 'Computational', 'Linguistics', '(ACL)', 'with', 'the', 'Human', 'Language', 'Technology', 'Conference', '(HLT)', 'of', 'the', 'North', 'American', 'Chapter', 'of', 'the', 'ACL', '.', 'The', 'conference', 'covers', 'a', 'broad', 'spectrum', 'of', 'disciplines', 'working', 'towards', 'enabling', 'intelligent', 'systems', 'to', 'interact', 'with', 'humans', 'using', 'natural', 'language,', 'and', 'towards', 'enhancing', 'human-human', 'communication', 'through', 'services', 'such', 'as', 'speech', 'recognition,', 'automatic', 'translation,', 'information', 'retrieval,', 'text', 'summarization,', 'and', 'information', 'extraction.']",
+  "labeled entities": "[(0, 1, 'ORG'), (6, 8, 'LOC'), (11, 12, 'LOC'), (17, 25, 'ORG'), (28, 32, 'ORG'), (35, 40, 'ORG')]"
+ },
+ {
+  "sentence": "['The', 'ACL', 'is', 'proud', 'to', 'present', 'invited', 'talks', 'by', 'Marc', 'Swerts', 'of', 'Tilburg', 'University', 'and', 'Susan', 'Dumais', 'of', 'Microsoft', 'Research', '.']",
+  "labeled entities": "[(1, 1, 'ORG'), (9, 10, 'PER'), (12, 13, 'ORG'), (15, 16, 'PER'), (18, 19, 'ORG')]"
+ },
+ {
+  "sentence": "['June', '15,', '2008', 'Conference', 'Tutorials']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['June', '16-18,', '2008', 'Main', 'Conference']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['June', '19-20,', '2008', 'Conference', 'Workshops']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Welcome', 'reception,', 'Sun', 'June', '15']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Student', 'Lunch,', 'Mon', 'June', '16']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Banquet,', 'Tues', 'June', '17']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Accommodation', 'details', 'and', 'travel', 'information']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['ACL-08:', 'HLT', 'Sponsors']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['We', 'gratefully', 'acknowledge', 'the', 'following', 'institutions', 'for', 'their', 'generous', 'sponsorship', 'of', 'this', \"year's\", 'conference:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Gold', 'Level']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Silver', 'Level']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Bronze', 'Level']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Supporter', 'Level']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Contributor']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['IBM', 'Research', '(Best', 'Student', 'Paper', 'Award)']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['Language', 'Weaver', '(Conference', 'Bag)']",
+  "labeled entities": "[(0, 1, 'ORG')]"
+ },
+ {
+  "sentence": "['University', 'of', 'Michigan', 'School', 'of', 'Information']",
+  "labeled entities": "[(0, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['General', 'Conference', 'Chair:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Kathleen', 'McKeown', '(', 'Columbia', 'University', ')', 'acl08chair@ling.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['Program', 'Co-Chairs:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Johanna', 'D.', 'Moore', '(', 'University', 'of', 'Edinburgh', ')', 'J.Moore@ed.ac.uk']",
+  "labeled entities": "[(0, 2, 'PER'), (4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['Simone', 'Teufel', '(', 'Cambridge', 'University', ')', 'sht25@cl.cam.ac.uk']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 4, 'ORG')]"
+ },
+ {
+  "sentence": "['James', 'Allan', '(', 'University', 'of', 'Massachusetts', ',', 'Amherst', ')', 'allan@cs.umass.edu']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 5, 'ORG'), (7, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['Sadaoki', 'Furui', '(', 'Tokyo', 'Institute', 'of', 'Technology', ',', 'Japan', ')', 'furui@cs.titech.ac.jp']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 6, 'ORG'), (8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['Workshop:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Ming', 'Zhou', '(', 'Microsoft', 'Research', 'China', ')', 'mingzhou@microsoft.com']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 4, 'ORG'), (5, 5, 'LOC')]"
+ },
+ {
+  "sentence": "['Tutorials:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Ani', 'Nenkova', '(', 'Univ', 'of', 'Pennsylvania', ',', 'USA', ')', 'nenkova@seas.upenn.edu']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 5, 'ORG'), (7, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['Marilyn', 'Walker', '(', 'Univ', 'of', 'Sheffield', ',', 'UK', ')', 'm.a.walker@sheffield.ac.uk']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 5, 'ORG'), (7, 7, 'LOC')]"
+ },
+ {
+  "sentence": "['Eugene', 'Agichtein', '(', 'Emory', 'University', ',', 'USA', ')', 'eugene@mathcs.emory.edu']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 4, 'ORG'), (6, 6, 'LOC')]"
+ },
+ {
+  "sentence": "['Demos:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Jimmy', 'Lin', '(', 'University', 'of', 'Maryland', ')', 'jimmylin@umd.edu']",
+  "labeled entities": "[(0, 1, 'PER'), (3, 5, 'ORG')]"
+ },
+ {
+  "sentence": "['Student', 'Co-Chairs:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Faculty', 'rep:', 'Jan', 'Wiebe', '(', 'University', 'of', 'Pittsburgh', ')', 'wiebe@cs.pitt.edu']",
+  "labeled entities": "[(2, 3, 'PER'), (5, 7, 'ORG')]"
+ },
+ {
+  "sentence": "['Student', 'NL:', 'Wolfgang', 'Maier', '(', 'U', 'of', 'Tubingen', ',', 'Germany', ')', 'wo.maier@uni-tuebingen.de']",
+  "labeled entities": "[(2, 3, 'PER'), (5, 7, 'ORG'), (9, 9, 'LOC')]"
+ },
+ {
+  "sentence": "['Student', 'Speech:', 'Ebru', 'Arisoy', '(', 'Bogazici', 'University', ',', 'Turkey', ')', 'arisoyeb@boun.edu.tr']",
+  "labeled entities": "[(2, 3, 'PER'), (5, 6, 'ORG'), (8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['Student', 'IR:', 'Keisuke', 'Inoue', '(', 'Syracuse', 'University', ',', 'USA', ')', 'kinoue@syr.edu']",
+  "labeled entities": "[(2, 3, 'PER'), (5, 6, 'ORG'), (8, 8, 'LOC')]"
+ },
+ {
+  "sentence": "['Local', 'Arrangements:']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Chris', 'Brew', 'cbrew@ling.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Donna', 'Byron', 'dbyron@cse.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Eric', 'Fosler-Lussier', 'fosler@cse.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Detmar', 'Meurers', 'dm@ling.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['Michael', 'White', 'mwhite@ling.osu.edu']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['DJ', 'Hovermale', 'acl08local@ling.osu.edu', '(Webmaster)']",
+  "labeled entities": "[(0, 1, 'PER')]"
+ },
+ {
+  "sentence": "['back', 'to', 'top']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Copyright', '©', '2007', 'The', 'Ohio', 'State', 'University']",
+  "labeled entities": "[(4, 6, 'ORG')]"
+ },
+ {
+  "sentence": "['A', 'big', 'welcome', 'from', 'Gary', 'Sims']",
+  "labeled entities": "[(4, 5, 'PER')]"
+ },
+ {
+  "sentence": "['This', 'is', 'Gary', \"'s\", 'homepage', 'and', 'it', 'is', 'not', 'exciting', 'in', 'anyway', 'whatsoever', 'and', 'its', 'brief!']",
+  "labeled entities": "[(2, 2, 'PER')]"
+ },
+ {
+  "sentence": "['All', 'the', 'real', 'activity', 'happens', 'over', 'on', 'my', 'blog:', \"Simo's\", 'Sagacity', '(The', 'quality', 'of', 'keen', 'and', 'farsighted', 'penetration', 'and', 'judgment).']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', 'have', 'a', 'web', 'directory', 'and', 'also', 'if', 'you', 'are', 'intrested', 'I', 'have', 'some', 'bookmarks', 'and', 'a', 'page', 'of', 'interesting', 'links.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['You', 'can', 'email', 'me', 'on', 'gary', 'at', 'garysims', 'dot', 'co', 'dot', 'uk', 'or', 'at', 'gmail.com', '(see', 'bottom', 'of', 'page)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['You', 'can', 'download', 'my', 'PGP', 'Public', 'key', 'from', 'here.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['If', 'I', 'have', 'helped', 'you', 'in', 'some', 'way', 'and', 'you', 'want', 'to', 'show', 'your', 'appreciation', 'then', 'you', 'can', 'donate', '$5', 'to', 'me', 'here.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Brevity']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['My', 'liege,', 'and', 'madam,', 'to', 'expostulate', 'what', 'majesty', 'should', 'be,', 'what', 'duty', 'is,', 'why', 'day', 'is', 'day,', 'night', 'night,', 'and', 'time', 'is', 'time,', 'were', 'nothing', 'but', 'to', 'waste', 'night,', 'day', 'and', 'time.', 'Therefore,', 'since', 'brevity', 'is', 'the', 'soul', 'of', 'wit,', 'and', 'tediousness', 'the', 'limbs', 'and', 'outward', 'flourishes,', 'I', 'will', 'be', 'brief.']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Links']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Bible', 'Study', 'Tool']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Linux', 'Operating', 'System']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['New', 'Covenant', 'Workshop']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Free', 'Press', 'Release', 'Service']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['Gary', \"'s\", 'page', 'over', 'at', 'GooglePages']",
+  "labeled entities": "[(0, 0, 'PER')]"
+ },
+ {
+  "sentence": "['Here', 'is', 'a', 'little', 'about', 'me', ':)']",
+  "labeled entities": "[]"
+ },
+ {
+  "sentence": "['I', '(Known', 'as', '\"', 'Kannan', '\"', 'to', 'family', 'and', 'friends)', 'am', 'the', 'eldest', 'of', 'the', 'three', 'children', 'of', 'T.S.Balakrishnan', '{Retired', 'from', 'Shaw', 'Wallace', ',', 'India', 'Pvt.', 'Ltd.', 'and', 'now', 'settled', 'in', 'Madras', '}', 'and', '[', 'Raji', ']', '{home', 'maker}.', 'Born', 'on', 'the', '13th', 'of', 'June', '1968,', 'I', 'spent', 'my', 'childhood', 'in', 'Madras', '.']",
+  "labeled entities": "[(4, 4, 'PER'), (18, 18, 'PER'), (21, 22, 'ORG'), (24, 26, 'ORG'), (31, 31, 'LOC'), (51, 51, 'LOC')]"
+ },
+ {
+  "sentence": "['I', 'had', 'my', 'early', 'schooling', 'at', '\"Chinmaya', 'Vidyalaya\"', 'in', 'Madras', ',', 'in', 'the', 'state', 'of', 'Tamil', 'Nadu', '.', 'I', 'graduated', 'from', 'the', 'Sri', 'Venkateswara', 'College', 'of', 'Engineering', 'with', 'a', 'Bachelors', 'in', 'Electrical', 'and', 'Electronics.', 'I', 'then', 'completed', 'a', 'Masters', 'in', '\"Electrical', 'and', 'Computer', 'Engineering\"', 'and', 'obtained', 'my', 'second', 'Masters', 'in', '\"System', 'Science\"', 'from', 'the', 'Louisiana', 'State', 'University', ',', 'Baton', 'Rouge,', 'La.,', 'USA.']",
+  "labeled entities": "[(9, 9, 'LOC'), (15, 16, 'LOC'), (22, 26, 'ORG'), (54, 56, 'ORG'), (58, 61, 'LOC')]"
+ },
+ {
+  "sentence": "['I', 'wasworking', 'as', 'a', '\"Computer', 'Analyst\"', 'in', 'the', 'College', 'of', 'Education', ',', 'at', 'the', 'Louisiana', 'State', 'Universtiy', '.', 'I', 'have', 'since', 'moved', 'to', 'Tulsa', 'in', 'the', 'Native', 'American', 'State', 'of', 'Oklahoma', '.', 'I', 'now', 'work', 'for', 'SPR', 'Inc', 'in', 'Tulsa', 'as', 'an', 'Information', 'Systems', 'Consultant.']",
+  "labeled entities": "[(8, 10, 'ORG'), (14, 16, 'ORG'), (23, 23, 'LOC'), (30, 30, 'LOC'), (36, 39, 'ORG')]"
+ },
+ {
+  "sentence": "['My', 'sister,', 'Shobha', 'married', 'R.Sriram', 'on', 'Feb', '2,', '1995,', 'and', 'is', 'now', 'settled', 'in', 'Madras', '.', 'They', 'share', 'a', 'little', 'bundle', 'of', 'joy', 'in', 'their', 'daughter,', 'Sanjana', '.']",
+  "labeled entities": "[(2, 2, 'PER'), (4, 4, 'PER'), (14, 14, 'LOC'), (26, 26, 'PER')]"
+ },
+ {
+  "sentence": "['My', 'brother', 'Vinod', 'is', 'pursuing', 'his', 'MBA', 'from', 'Xavier', 'Institute', 'of', 'Management', ',', 'Bhuvaneshwar', '{[LOC', 'Orissa', ']', '},', 'besides', 'working', 'in', 'Johnson', '&', 'Johnson', ',', 'Madras', '.']",
+  "labeled entities": "[(2, 2, 'PER'), (8, 11, 'ORG'), (13, 13, 'LOC'), (21, 23, 'ORG'), (25, 25, 'LOC')]"
+ },
+ {
+  "sentence": "['I', 'married', 'Priya', 'on', 'January', '26,', '1996', 'at', 'Bangalore,', 'India', '.']",
+  "labeled entities": "[(2, 2, 'PER'), (8, 9, 'LOC')]"
+ },
+ {
+  "sentence": "['My', 'hobbies', 'include', 'traveling,', 'music,', 'movies,', 'sports', 'and', 'good', 'food!!!!!!!']",
+  "labeled entities": "[]"
+ }
+]
