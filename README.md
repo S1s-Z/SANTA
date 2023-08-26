@@ -1,6 +1,6 @@
 # SANTA
 
-Hi, this is the code of our paper "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition" accepted by ACL 2023 Findings. Our paper is available here [here](https://arxiv.org/pdf/2305.04076.pdf).
+Hi, this is the code of our paper "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition" accepted by ACL 2023 Findings. Our paper is available [here](https://arxiv.org/pdf/2305.04076.pdf).
 
 ## News:
 
