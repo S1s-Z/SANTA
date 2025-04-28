@@ -14,6 +14,10 @@ Download different pretrained LMs into resource/
 Use environments.yaml to get the right environments
 
 ## Reproduce results
+For Conll03:
+
+>sh train_conll03.sh
+
 For EC:
 
 >sh train_EC.sh
